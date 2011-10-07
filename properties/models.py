@@ -19,7 +19,7 @@ class Unit(models.Model):
 
 
 class Amenity(models.Model):
-	prop = models.ManyToMany(Property)
+	prop = models.ManyToManyField(Property)
 	name = models.CharField(max_length=50)
 	pet_choices = (
 		('c','Cats'),
