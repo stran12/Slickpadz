@@ -11,14 +11,16 @@ class Property(models.Model):
 	longitude = models.IntegerField()
 	address	  = models.CharField(max_length=50)
 	
-
 class Unit(models.Model):
 	number 	= models.CharField(max_length=10)
 	bed     = models.IntegerField()
 	bath	= models.IntegerField()
 
+
+
 class Amenity(models.Model):
-	unit = models.ForeignKey(Unit)
+	prop = models.ManyToMany(Property)
+	name = models.CharField(max_length=50)
 	pet_choices = (
 		('c','Cats'),
 		('d','Dogs'),
@@ -26,18 +28,5 @@ class Amenity(models.Model):
 		('n','None'),
 	)
 	pets = models.CharField(max_length=1, choices = pet_choices)
-	hardwood_floors 	= models.BooleanField()
-	air_conditioning	= models.BooleanField()
-	fitness_center 		= models.BooleanField()
-	laundry_room		= models.BooleanField()
-	garage_parking		= models.BooleanField()
-	pool				= models.BooleanField()
-	washerdryer_inunit  = models.BooleanField()
-	washerdryer_hookup  = models.BooleanField()
-	walkin_closet		= models.BooleanField()
-
-	
-
-
 
 
