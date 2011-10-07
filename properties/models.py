@@ -14,11 +14,11 @@ class Property(models.Model):
 
 class Unit(models.Model):
 	number 	= models.CharField(max_length=10)
-	bed		= models.IntegerField()
+	bed     = models.IntegerField()
 	bath	= models.IntegerField()
 
 class Amenity(models.Model):
-	unit = ForeignKey(Unit)
+	unit = models.ForeignKey(Unit)
 	pet_choices = (
 		('c','Cats'),
 		('d','Dogs'),
@@ -34,7 +34,7 @@ class Amenity(models.Model):
 	pool				= models.BooleanField()
 	washerdryer_inunit  = models.BooleanField()
 	washerdryer_hookup  = models.BooleanField()
-	walkin_closet		= mdoels.BooleanField()
+	walkin_closet		= models.BooleanField()
 
 	
 
