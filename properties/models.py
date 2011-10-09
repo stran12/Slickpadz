@@ -7,6 +7,7 @@ import datetime
 
 class Property(models.Model):
 	city = models.ForeignKey(City)
+	name = models.CharField(max_length=50)
 	latitude  = models.IntegerField()
 	longitude = models.IntegerField()
 	address	  = models.CharField(max_length=50)
