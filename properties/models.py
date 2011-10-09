@@ -11,11 +11,17 @@ class Property(models.Model):
 	latitude  = models.IntegerField()
 	longitude = models.IntegerField()
 	address	  = models.CharField(max_length=50)
+	def __unicode__(self):
+		return self.name
+
 	
 class Unit(models.Model):
 	number 	= models.CharField(max_length=10)
 	bed     = models.IntegerField()
 	bath	= models.IntegerField()
+	def __unicode__(self):
+		return self.number
+
 
 
 
@@ -29,5 +35,8 @@ class Amenity(models.Model):
 		('n','None'),
 	)
 	pets = models.CharField(max_length=1, choices = pet_choices)
+	def __unicode__(self):
+		return self.name
+
 
 
