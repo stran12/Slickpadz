@@ -1,6 +1,13 @@
-{% if properties_list %}
+<html>
+  <head>
+  </head>
+  <body>
+    {% if properties_list %}
 	<ul>
-	{% for prop in properties_list %}
-		<li> prop.name </li>
+	  {% for prop in properties_list %}
+	  <li> {{ prop.name }} </li>
+	  {% endfor %}
 	</ul>
-{% endif %}
+	{% endif %}
+  </body>
+</html>
