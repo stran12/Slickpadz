@@ -11,6 +11,7 @@ class Property(models.Model):
 	latitude  = models.IntegerField()
 	longitude = models.IntegerField()
 	address	  = models.CharField(max_length=50)
+	price     = models.IntgerField()
 	def __unicode__(self):
 		return self.name
 
@@ -22,9 +23,6 @@ class Unit(models.Model):
 	def __unicode__(self):
 		return self.number
 
-
-
-
 class Amenity(models.Model):
 	prop = models.ManyToManyField(Property)
 	name = models.CharField(max_length=50)
@@ -34,7 +32,21 @@ class Amenity(models.Model):
 		('b','Both'),
 		('n','None'),
 	)
-	pets = models.CharField(max_length=1, choices = pet_choices)
+	#pets = models.CharField(max_length=1, choices = pet_choices)
+	def __unicode__(self):
+		return self.name
+
+class PhoneNumber(models.Model):
+	number = CharField(max_length=10)
+	ext    = CharField(max_length=6)
+	def __unicode__(self):
+		return self.number + ' ' + self.ext
+
+
+
+class Sources(models.Model):
+	name = CharField(max_length=50)
+	url  = CharField(max_length=50)
 	def __unicode__(self):
 		return self.name
 
