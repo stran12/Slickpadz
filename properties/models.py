@@ -11,7 +11,7 @@ class Property(models.Model):
 	latitude  = models.IntegerField()
 	longitude = models.IntegerField()
 	address	  = models.CharField(max_length=50)
-	price     = models.IntgerField()
+	price     = models.IntegerField()
 	def __unicode__(self):
 		return self.name
 
@@ -37,16 +37,16 @@ class Amenity(models.Model):
 		return self.name
 
 class PhoneNumber(models.Model):
-	number = CharField(max_length=10)
-	ext    = CharField(max_length=6)
+	number = models.CharField(max_length=10)
+	ext    = models.CharField(max_length=6)
 	def __unicode__(self):
 		return self.number + ' ' + self.ext
 
 
 
 class Sources(models.Model):
-	name = CharField(max_length=50)
-	url  = CharField(max_length=50)
+	name = models.CharField(max_length=50)
+	url  = models.CharField(max_length=50)
 	def __unicode__(self):
 		return self.name
 

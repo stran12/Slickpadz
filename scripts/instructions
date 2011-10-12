@@ -1,0 +1,47 @@
+1. Setting up ssh so that users can only login using .ssh private/public keys
+URL: http://www.howtoforge.com/set-up-ssh-with-public-key-authentication-debian-etch
+
+	a. COMMAND: adduser <user>
+	b. COMMAND: visudo
+		- Add <user> to the sudoers list, copy root ALL = (ALL) ALL
+	c. Log onto that <user>/home
+	d. COMMAND: mkdir ~/.ssh
+	e. COMMAND: chmod 700 ~/.ssh
+	f. COMMAND: cd ~/.ssh
+	g. Generate a  ssh public/private key pair with 
+		COMMAND: ssh-keygen -t rsa -c "<passphrase>" 
+		usually an email is good enough for passphrase.
+	h. Copy the PUBLIC key to the remote server that we are getting access to
+		COMMAND: scp -p id_rsa.pub remoteuser@remotehost:
+	i. COMMAND: ssh remoteuser@remotehost
+	mkdir ~/.ssh
+	chmod 700 ~/.ssh
+	cat id_rsa.pub >> ~/.ssh/authorized_keys
+	chmod 600 ~/.ssh/authorized_keys
+	mv id_rsa.pub ~/.ssh
+	logout
+
+	j. DISABLE PASSWORD AUTHENTICATION, so the only way to access the server is ssh
+	cd /etc/ssh
+	cp sshd_config sshd_config.original
+	vi sshd_config
+		- SET: PermitRootLogin no
+		  SET: PasswordAuthentication no
+		  SET: UsePAM no
+
+	k. Restart ssh client
+		COMMAND: /etc/init.d/ssh restart
+
+2. Setting up postgresql-8.4
+	a. sudo apt-get install postgresql-8.4
+		- this should have created a linux user named "postgres"
+	b. navigate to /etc/postgresql8.4/main/pg_hba.conf
+		- add this line underneath postgres user
+		  "local all all md5"
+	c. sudo /etc/init.d/postgresql-8.4 restart
+	d. Create a new postgresql user
+		COMMAND: sudo -u postgres createuser -d -R -P <new_user>
+	e. Create a new database owned by <username>
+	    COMMAND: sudo -u postgres createdb -O <username> <database_name>
+	f. How to delete a postgresql user
+		COMMAND: sudo -u postgres dropuser <username>
