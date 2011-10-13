@@ -1,7 +1,31 @@
+<!doctype  html>
 <html>
   <head>
+	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}index.css" />
   </head>
   <body>
+    <div id="header">
+		This is a header
+	</div>
+	
+	<div class="clearb"></div>
+	
+	<div id="filter_panel">
+		This is the filter panel
+	</div>
+	<div id="main">	
+		<div id="map">
+			This is where the map will be.
+		</div>
+		<div id="data_grid">
+			This is the main data grid
+		</div>
+	</div>
+	<div class="clearb"></div>
+	<div id="footer">
+		This the nonchalant footer.
+	</div>
+
     {% if properties_list %}
 	<ul>
 	  {% for prop in properties_list %}

@@ -1,0 +1,17 @@
+#header { width:800px; background-color:gray; }
+
+
+#filter_panel { float:left; height:400px; width:150px; }
+
+#main { float:left }
+#main #map { height:400px; width:650px; }
+
+#footer { width:800px; background-color:gray; }
+.clearb { clear:both }
+.clearl { clear:left }
+.clearr { clear:right }
+
+
+
+
+
