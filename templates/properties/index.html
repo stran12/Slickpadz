@@ -2,44 +2,27 @@
 <html>
   <head>
 	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}index.css" />
-
-<script type="text/javascript"
-    src="http://maps.googleapis.com/maps/api/js?sensor=true">
-</script>
-<script type="text/javascript">
-  function initialize() {
-    var latlng = new google.maps.LatLng(40.77274188001071, -73.99772644042969);
-    var myOptions = {
-      zoom: 12,
-      center: latlng,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    };
-    var map = new google.maps.Map(document.getElementById("map_canvas"),
-        myOptions);
-  }
-
-</script> 
   </head>
-  <body onload="initialize()">
-          <div id="header" class="header">
-            This is a header
+  <body>
+    <div id="header" class="header">
+        This is a header
+    </div>
+    <div id="content" class="content clearFx">
+        <div id="filter-panel" class="filter-panel">
+            This is the filter panel
         </div>
-        <div id="content" class="content clearFx">
-            <div id="filter-panel" class="filter-panel">
-                This is the filter panel
+        <div id="main" class="main">	
+            <div id="map_canvas" class="map">
+                This is where the map will be.
             </div>
-            <div id="main" class="main">	
-                <div id="map" class="map">
-                    This is where the map will be.
-                </div>
-                <div id="data-grid" class="data-grid">
-                    This is the main data grid
-                </div>
+            <div id="data-grid" class="data-grid">
+                This is the main data grid
             </div>
         </div>
-        <div id="footer" class="footer">
-            This the nonchalant footer.
-        </div>
+    </div>
+    <div id="footer" class="footer">
+        This the nonchalant footer.
+    </div>
 
 {% if properties_list %}
 <ul>
@@ -49,5 +32,17 @@
 </ul>
 {% endif %}
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+<script type="text/javascript">
+$().ready(function() {
+    var latlng = new google.maps.LatLng(40.77274188001071, -73.99772644042969);
+    var myOptions = {
+            zoom: 12,
+            center: latlng,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+});
+</script>
 </body>
 </html>
