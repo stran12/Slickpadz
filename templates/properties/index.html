@@ -2,8 +2,25 @@
 <html>
   <head>
 	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}index.css" />
+
+<script type="text/javascript"
+    src="http://maps.googleapis.com/maps/api/js?sensor=true">
+</script>
+<script type="text/javascript">
+  function initialize() {
+    var latlng = new google.maps.LatLng(40.77274188001071, -73.99772644042969);
+    var myOptions = {
+      zoom: 12,
+      center: latlng,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+    var map = new google.maps.Map(document.getElementById("map_canvas"),
+        myOptions);
+  }
+
+</script> 
   </head>
-  <body>
+  <body onload="initialize()">
     <div id="header">
 		This is a header
 	</div>
@@ -14,8 +31,8 @@
 		This is the filter panel
 	</div>
 	<div id="main">	
-		<div id="map">
-			This is where the map will be.
+		<div id="map_canvas">
+			Google maps loading...
 		</div>
 		<div id="data_grid">
 			This is the main data grid
