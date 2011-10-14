@@ -1,17 +1,21 @@
-#header { width:800px; background-color:gray; }
+.clearFx { height: 1% }
+.clearFx:after {
+    display: block;
+    visibility: hidden;
+    clear: both;
+    height: 0;
+    content: "."
+}
+
+.header { width:800px; background-color:gray; }
 
 
-#filter_panel { float:left; height:400px; width:150px; }
+.filter-panel { float:left; height:400px; width:150px; }
 
-#main { float:left }
-#main #map_canvas { height:400px; width:650px; }
+.main { float:left }
+.main > .map { height:400px; width:650px; }
 
-#footer { width:800px; background-color:gray; }
-.clearb { clear:both }
-.clearl { clear:left }
-.clearr { clear:right }
-
-
+.footer { width:800px; background-color:gray; }
 
 
 
