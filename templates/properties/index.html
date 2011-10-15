@@ -33,16 +33,6 @@
 {% endif %}
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
-<script type="text/javascript">
-$().ready(function() {
-    var latlng = new google.maps.LatLng(40.77274188001071, -73.99772644042969);
-    var myOptions = {
-            zoom: 12,
-            center: latlng,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
-    var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
-});
-</script>
+<script type="text/javascript" src="{{ STATIC_URL }}js/spz.js"></script>
 </body>
 </html>
