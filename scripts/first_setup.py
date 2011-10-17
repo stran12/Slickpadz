@@ -1,44 +1,28 @@
-#!/usr/bin/perl
+import os;
+
+
+
+
+# This works checked 2011-10-16
+#os.system("sudo cp Django-1.3.1.tar.gz /usr/local/lib/.")
+#os.system("sudo tar xzvf /usr/local/lib/Django-1.3.1.tar.gz -C /usr/local/lib/")
+#os.system("sudo python /usr/local/lib/Django-1.3.1/setup.py install")
 #
-# Stephen's script to install all necessary things for Pyramid
-# Web Framework
+#install_list = "nginx \
+#				git-core \
+#                build-essential \
+#                python-setuptools \
+#                postgresql \
+#                python-psycopg2 \
+#                ";
+#
+#os.system("sudo apt-get install " + install_list);
 
-
-
-import os
-
-
-
-# Things to install
-things  =  "git-core \
-            build-essential \
-            python-setuptools \
-			python-psycopg2 \
-			postgresql-8.4 \
-            ";
-
-optional_things =  "apache2"
-
-
-
-print "Unzipping Django-1.3.1.tar.gz\n"
-os.system("tar xzvf Django-1.3.1.tar.gz")
-
-print "cd Django-1.3.1\n"
-os.system("cd Django-1.3.1")
-
-print "Installing Django-1.3.1...\n"
-os.system("sudo python setup.py install")
-
-print "Going back up to /home/user\n"
-os.sytem("cd ..")
-
-print "Going to INSTALL a lot of stuff now\n"
-os.system("sudo apt-get install " + things)
-
+# GiT setup
 #os.system("git config --global user.name \"Stephen Tran\"")
-#os.system("git config --global user.email dreamer7321@yahoo.com")
+#os.system('git config --global user.email "stephen.v.tran@gmail.com"')
 #os.system("git config --global color.ui true")
+
 
 
 
