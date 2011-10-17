@@ -14,6 +14,7 @@ import os;
 #                python-setuptools \
 #                postgresql \
 #                python-psycopg2 \
+#                python-pip \
 #                ";
 #
 #os.system("sudo apt-get install " + install_list);
@@ -23,6 +24,5 @@ import os;
 #os.system('git config --global user.email "stephen.v.tran@gmail.com"')
 #os.system("git config --global color.ui true")
 
-
-
+# Need to get pip
 
