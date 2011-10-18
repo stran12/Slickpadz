@@ -45,3 +45,5 @@ URL: http://www.howtoforge.com/set-up-ssh-with-public-key-authentication-debian-
 	    COMMAND: sudo -u postgres createdb -O <username> <database_name>
 	f. How to delete a postgresql user
 		COMMAND: sudo -u postgres dropuser <username>
+
+		COMMAND: source /etc/bash_completion.d/git
