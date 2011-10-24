@@ -1,0 +1,38 @@
+<!doctype  html>
+<html>
+  <head>
+	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}search.css" />
+  </head>
+  <body>
+    <div id="header" class="header">
+        This is a header
+    </div>
+    <div id="content" class="content clearFx">
+        <div id="filter-panel" class="filter-panel">
+            This is the filter panel
+        </div>
+        <div id="main" class="main">	
+            <div id="map_canvas" class="map">
+                This is where the map will be.
+            </div>
+            <div id="data-grid" class="data-grid">
+                This is the main data grid
+            </div>
+        </div>
+    </div>
+    <div id="footer" class="footer">
+        This the nonchalant footer.
+    </div>
+
+{% if properties_list %}
+<ul>
+{% for prop in properties_list %}
+<li> {{ prop.name }} </li>
+{% endfor %}
+</ul>
+{% endif %}
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+<script type="text/javascript" src="{{ STATIC_URL }}js/spz.js"></script>
+</body>
+</html>
