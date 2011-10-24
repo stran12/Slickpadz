@@ -10,11 +10,15 @@ from django.template import RequestContext
 
 
 def index(request):
-	properties_list = Property.objects.all()
 	return render_to_response('properties/index.html',
-							  {'properties_list': properties_list},
 						      context_instance=RequestContext(request),
 							 )
 
+def search(request):
+	properties_list = Property.objects.all()
+	return render_to_response('properties/search.html',
+							  {'properties_list': properties_list},
+						      context_instance=RequestContext(request),
+							 )
 
 
