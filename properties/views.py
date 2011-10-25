@@ -21,4 +21,7 @@ def search(request):
 						      context_instance=RequestContext(request),
 							 )
 
+def properties(request):
+	from django.http import HttpResponse
+	return HttpResponse("HELLO WORLD")
 

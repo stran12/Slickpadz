@@ -1,3 +1,6 @@
+body {
+	font-family: 'Arial', arial, serif;
+}
 .clearFx { height: 1% }
 .clearFx:after {
     display: block;
@@ -7,7 +10,15 @@
     content: "."
 }
 
-.header { width:800px; background-color:gray; }
+.header { width:100%;
+}
+
+h1 { margin:0; 
+	 padding:0 15px 0 0; 
+ 	 color:#8A4117; 
+	 float:left; }
+
+#searchbar { float:left; margin:6px 0 10px 0; }
 
 
 .filter-panel { float:left; height:400px; width:150px; }
@@ -15,7 +26,7 @@
 .main { float:left }
 .main > .map { height:400px; width:650px; }
 
-.footer { width:800px; background-color:gray; }
+.footer { width:100%; background-color:gray; }
 
 
 

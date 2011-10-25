@@ -7,15 +7,20 @@
     content: "."
 }
 
-.header { width:800px; background-color:gray; }
+body { text-align:center; 
+	   margin:0 auto;
+	   font-family: 'Arial', arial, serif;
+}
 
+#header { height:200px;
+	  	  margin: 0 auto; }
 
-.filter-panel { float:left; height:400px; width:150px; }
+h1 { color:#8A4117;
+	
+}
 
-.main { float:left }
-.main > .map { height:400px; width:650px; }
-
-.footer { width:800px; background-color:gray; }
+#footer { width:800px; 
+		  margin: 0 auto; }
 
 
 
