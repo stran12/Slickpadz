@@ -1,17 +1,4 @@
-body {
-	font-family: 'Arial', arial, serif;
-}
-.clearFx { height: 1% }
-.clearFx:after {
-    display: block;
-    visibility: hidden;
-    clear: both;
-    height: 0;
-    content: "."
-}
-
-.header { width:100%;
-}
+.header { width:100%; }
 
 h1 { margin:0; 
 	 padding:0 15px 0 0; 

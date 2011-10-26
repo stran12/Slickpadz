@@ -1,15 +1,16 @@
 <!doctype  html>
 <html>
   <head>
+	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}global.css" />
 	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}search.css" />
   </head>
   <body>
     <div id="header" class="header clearFx">
 		<h1>Slickpadz</h1>		
         <div id="searchbar" class="searchbar">
-			<form action="search/" method="get">
-				<input type="text" name="searchterm" size="40" value="City, State or ZIP" />
-				<input type="submit" value="Search">
+			<form action="search/" method="get" class="search-form">
+				<input type="text" name="searchterm" class="term" value="City, State or ZIP" />
+				<input type="submit" value="Go" class="btn" />
 			</form>
     	</div>
     </div>
