@@ -3,19 +3,34 @@
   <head>
 	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}index.css" />
   </head>
-  <body>
+  <body class="page home">
     <div id="header">
         
     </div>
-	<div id="logo">
-		<h1>Slickpadz</h1>
-	</div>
-	<div id="searchbar">
-		<form action="search/" method="get">
-			<input type="text" name="searchterm" size="40" value="City, State or ZIP" />
-			<input type="submit" value="Search">
-		</form>
-	</div>
+    <div class="section">
+        <h1>Slickpadz</h1>
+    </div>
+    <div class="search-wrapper clearFx section">
+        <form action="search/" method="get" id="main-search" class="search-form main">
+            <input type="text" name="searchterm" class="term" value="City, State or ZIP" />
+            <input type="submit" value="go" class="btn" />
+        </form>
+    </div>
+    <div class="content-wrapper clearFx section">
+        <div class="content-block">
+            <h2>Free To Search</h2>
+            <form action="search/" method="get" id="secondary-search" class="search-form">
+                <input type="text" name="searchterm" class="term" value="City, State or ZIP" />
+                <input type="submit" value="go" class="btn" />
+            </form>
+        </div>
+        <div class="content-block">
+            <h2>Free To List</h2>
+        </div>
+        <div class="content-block">
+            <h2>Free To Share</h2>
+        </div>
+    </div>
     <div id="footer">
     </div>
 </body>
