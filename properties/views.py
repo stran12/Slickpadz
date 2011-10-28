@@ -16,8 +16,12 @@ def index(request):
 							 )
 def search(request):
 	cityState_or_zip = request.GET.get('cityState_or_zip')
-	checklist = [] # This is a checklist of all amenities to be listed in panel
-	vacancies = []
+	checklist = [] # This is a checklist of all amenities to be listed in filter panel
+	vacancies = [] # Container array to hold all properties with their information for table
+	# Main headers outside of amenities checklist.
+	# The header of the table will be theaders.extend(checklist)
+	theaders  = ['Name', 'Price', 'Bed', 'Bath', 'Type']
+
 	if cityState_or_zip:
 		units_list = Unit.objects.select_related().all()
 		properties_list = Property.objects.all()
@@ -37,6 +41,7 @@ def search(request):
 			attr = {}
 			attr['name'] 	    = u.prop.name
 			attr['bed'] 	    = u.bed
+			attr['bath'] 	    = u.bath
 			attr['price_low']   = u.price_low
 			attr['price_high']  = u.price_high
 			attr['address'] 	= u.prop.address
@@ -66,6 +71,7 @@ def search(request):
 		return render_to_response('properties/search.html',
 				{'checklist': checklist,
 				 'vacancies': vacancies,
+				 'theaders' : theaders,
 				}
 				,context_instance=RequestContext(request),
 				)

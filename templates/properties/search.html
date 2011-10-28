@@ -18,7 +18,7 @@
         <div id="filter-panel" class="filter-panel">
 			This is the filter panel
 			{% for filter_am in checklist %}
-			<input type="radio" name="amenities" value="{{ filter_am }}" />{{ filter_am }}
+			<input type="checkbox" name="amenities" value="{{ filter_am }}" />{{ filter_am }}
 			{% endfor %}
         </div>
         <div id="main" class="main">	
@@ -29,16 +29,27 @@
 				<table>
 					<thead>
 						<tr>
-							<th>
-							</th>
+							{% for head in theaders %}
+							<th>{{ head }}</th>
+							{% endfor %}
+							{% for item in checklist %}
+							<th>{{ item }}</th>
+							{% endfor %}
 						</tr>
 					</thead>
 					<tbody>
-						{% if properties_list %}
-							{% for prop in properties_list %}
-								<tr>
-									<td>{{ prop.name }}</td>
-								</tr>
+						{% if vacancies %}
+							{% for prop in vacancies %}
+							<tr>
+								<td>{{ prop.name }}</td>
+								<td>{{ prop.price_low }} - {{ prop.price_high }}</td>
+								<td>{{ prop.bed }}</td>
+								<td>{{ prop.bath }}</td>
+								<td>{{ prop.prop_type }}</td>
+								{% for item in prop.amenities_list %}
+								<td>{% if item %}x{% endif %}</td>
+								{% endfor %}
+							</tr>
 							{% endfor %}
 						{% endif %}
 					</tbody>
@@ -66,6 +77,7 @@
 	<li>
 	{{ prop.address }}
 	{{ prop.name }}
+	{{ prop.bath }}
 	{% for amenity in prop.amenities_list %}
 		<li>{{ amenity}}</li>
 	{% endfor %}
