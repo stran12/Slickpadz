@@ -3,6 +3,7 @@
   <head>
 	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}global.css" />
 	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}index.css" />
+	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}jquery-ui-1.8.16.custom.css" />
   </head>
   <body class="page home">
     <div id="header">
@@ -34,5 +35,16 @@
     </div>
     <div id="footer">
     </div>
+    <script type="text/javascript">
+        var serverContext = serverContext || {};
+        serverContext.suggestList = [
+            "Los Angeles, CA",
+            "New York, NY"
+        ];
+    </script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-ui-1.8.16.custom.min.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}js/spz.js"></script>
+    <script type="text/javascript" src="{{ STATIC_URL }}js/spz.home.js"></script>
 </body>
 </html>
