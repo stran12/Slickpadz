@@ -4,6 +4,7 @@
 spz.search = {
     init: function() {
         spz.search.initMap();
+        spz.search.zebraStripe($('#data-grid'));
     },
     /**
      * initializes google map
@@ -16,6 +17,9 @@ spz.search = {
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             },
             map = new google.maps.Map($("#map_canvas")[0], myOptions);
+    },
+    zebraStripe: function($table) {
+        $table.find('tbody > tr:odd').addClass('odd');
     }
 };
 $(document).bind('spz:initialized', spz.search.init);

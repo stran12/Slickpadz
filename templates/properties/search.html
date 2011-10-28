@@ -26,38 +26,34 @@
             <div id="map_canvas" class="map">
                 This is where the map will be.
             </div>
-			<div id="data-grid" class="data-grid">
-				<table>
-					<thead>
-						<tr>
-							{% for head in theaders %}
-							<th>{{ head }}</th>
-							{% endfor %}
-							{% for item in checklist %}
-							<th>{{ item }}</th>
-							{% endfor %}
-						</tr>
-					</thead>
-					<tbody>
-						{% if vacancies %}
-							{% for prop in vacancies %}
-							<tr>
-								<td>{{ prop.name }}</td>
-								<td>{{ prop.price_low }} - {{ prop.price_high }}</td>
-								<td>{{ prop.bed }}</td>
-								<td>{{ prop.bath }}</td>
-								<td>{{ prop.prop_type }}</td>
-								{% for item in prop.amenities_list %}
-								<td>{% if item %}x{% endif %}</td>
-								{% endfor %}
-							</tr>
-							{% endfor %}
-						{% endif %}
-					</tbody>
-				</table>
-
-                This is the main data grid
-            </div>
+            <table id="data-grid" class="data-grid">
+                <thead>
+                    <tr>
+                        {% for head in theaders %}
+                        <th>{{ head }}</th>
+                        {% endfor %}
+                        {% for item in checklist %}
+                        <th>{{ item }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if vacancies %}
+                        {% for prop in vacancies %}
+                        <tr>
+                            <td>{{ prop.name }}</td>
+                            <td>{{ prop.price_low }} - {{ prop.price_high }}</td>
+                            <th>{{ prop.bed }}</th>
+                            <th>{{ prop.bath }}</th>
+                            <td>{{ prop.prop_type }}</td>
+                            {% for item in prop.amenities_list %}
+                            <th>{% if item %}x{% endif %}</th>
+                            {% endfor %}
+                        </tr>
+                        {% endfor %}
+                    {% endif %}
+                </tbody>
+            </table>
         </div>
     </div>
     <div id="footer" class="footer">

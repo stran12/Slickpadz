@@ -15,5 +15,18 @@ h1 { margin:0;
 
 .footer { width:100%; background-color:gray; }
 
-
+.data-grid {
+    border-collapse: collapse;
+    border: 1px solid #000;
+}
+.data-grid td,
+.data-grid th {
+    border: 1px solid #000;
+    padding: .3em .6em
+}
+.data-grid > thead th {
+    background: #999;
+}
+.data-grid > tbody th { font-weight: normal }
+.data-grid > tbody > tr.odd { background: #ccc }
 
