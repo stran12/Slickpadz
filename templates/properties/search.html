@@ -8,29 +8,71 @@
     <div id="header" class="header clearFx">
 		<h1>Slickpadz</h1>		
         <div id="searchbar" class="searchbar">
-			<form action="search/" method="get" class="search-form">
-				<input type="text" name="searchterm" class="term" value="City, State or ZIP" />
+			<form action="/search" method="get" class="search-form">
+				<input type="text" name="cityState_or_zip" class="term" value="City, State or ZIP" />
 				<input type="submit" value="Go" class="btn" />
 			</form>
     	</div>
     </div>
     <div id="content" class="content clearFx">
         <div id="filter-panel" class="filter-panel">
-            This is the filter panel
+			This is the filter panel
+			{% for filter_am in checklist %}
+			<input type="radio" name="amenities" value="{{ filter_am }}" />{{ filter_am }}
+			{% endfor %}
         </div>
         <div id="main" class="main">	
             <div id="map_canvas" class="map">
                 This is where the map will be.
             </div>
-            <div id="data-grid" class="data-grid">
+			<div id="data-grid" class="data-grid">
+				<table>
+					<thead>
+						<tr>
+							<th>
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						{% if properties_list %}
+							{% for prop in properties_list %}
+								<tr>
+									<td>{{ prop.name }}</td>
+								</tr>
+							{% endfor %}
+						{% endif %}
+					</tbody>
+				</table>
+
                 This is the main data grid
             </div>
         </div>
     </div>
     <div id="footer" class="footer">
         This the nonchalant footer.
-    </div>
+	</div>
 
+
+	<ul>	
+	{% if checklist %}
+	{% for item in checklist %}
+		<li> {{ item }} </li>	
+	{% endfor %}
+		
+{% endif %}
+</ul>	
+{% if vacancies %}
+	{% for prop in vacancies %}
+	<li>
+	{{ prop.address }}
+	{{ prop.name }}
+	{% for amenity in prop.amenities_list %}
+		<li>{{ amenity}}</li>
+	{% endfor %}
+	</li>
+	{% endfor %}
+	
+{% endif %}
 {% if properties_list %}
 <ul>
 {% for prop in properties_list %}
@@ -38,8 +80,9 @@
 {% endfor %}
 </ul>
 {% endif %}
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+-->
 <script type="text/javascript" src="{{ STATIC_URL }}js/spz.js"></script>
 </body>
 </html>
