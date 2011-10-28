@@ -47,3 +47,6 @@ URL: http://www.howtoforge.com/set-up-ssh-with-public-key-authentication-debian-
 		COMMAND: sudo -u postgres dropuser <username>
 
 		COMMAND: source /etc/bash_completion.d/git
+
+
+	To get a crypt(3) password, use  perl -le 'print crypt("beuWriHi1","beuWriHi")'
