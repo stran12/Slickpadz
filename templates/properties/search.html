@@ -17,10 +17,13 @@
     </div>
     <div id="content" class="content clearFx">
         <div id="filter-panel" class="filter-panel">
-			This is the filter panel
-			{% for filter_am in checklist %}
-			<input type="checkbox" name="amenities" value="{{ filter_am }}" />{{ filter_am }}
-			{% endfor %}
+            <h2>Filters</h2>
+            {% for filter_am in checklist %}
+            <fieldset class="clearFx">
+                <input type="checkbox" name="amenities" value="{{ filter_am }}" />
+                <label>{{ filter_am }}</label>
+            </fieldset>
+            {% endfor %}
         </div>
         <div id="main" class="main">	
             <div id="map_canvas" class="map">

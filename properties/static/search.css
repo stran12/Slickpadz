@@ -32,3 +32,12 @@ h1 { margin:0;
 .data-grid > tbody th { font-weight: normal }
 .data-grid > tbody > tr.odd { background: #ccc }
 
+.filter-panel {
+    border: 1px solid #000;
+}
+.filter-panel input,
+.filter-panel label { float: left; display: block }
+.filter-panel input { margin-right: 1em }
+.filter-panel fieldset {
+    margin: 1em 0
+}
