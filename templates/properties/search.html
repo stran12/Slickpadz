@@ -19,6 +19,11 @@
         <div id="content" class="content clearFx">
             <div id="filter-panel" class="filter-panel">
                 <h2>Filters</h2>
+                <h4>Pets</h4>
+                <input type="checkbox" name="pets" value="cats"/><label>Cats</label>
+                <input type="checkbox" name="pets" value="dogs" /><label>Dogs</label> 
+                <input type="checkbox" name="pets" value="none" /><label>None</label> 
+                <h4>Amenities</h4>
                 {% for filter_am in checklist %}
                 <div>
                     <input type="checkbox" name="amenities" value="{{ filter_am }}" />
