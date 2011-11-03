@@ -14,6 +14,7 @@ def index(request):
 	return render_to_response('properties/index.html',
 						      context_instance=RequestContext(request),
 							 )
+
 def search(request):
 	cityState_or_zip = request.GET.get('cityState_or_zip')
 	checklist = [] # This is a checklist of all amenities to be listed in filter panel
@@ -78,6 +79,10 @@ def search(request):
 	# Otherwise, if there is no cityState_or_zip
 	else:
 		raise Http404
+
+def api(request):
+	from django.http import HttpResponse
+	return HttpResponse("HELLO WORLD")
 
 def properties(request):
 	from django.http import HttpResponse

@@ -16,7 +16,7 @@ urlpatterns = patterns('',
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
 	(r'^properties/$', 'properties.views.properties'),
 	(r'^search/$', 'properties.views.search'),
-	(r'^$', 'properties.views.index'),
+	(r'^api/$', 'properties.views.api'),
 	(r'^$', 'properties.views.index'),
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
