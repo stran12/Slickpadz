@@ -69,4 +69,9 @@ body {
     height: 0;
     content: "."
 }
+
+/** Reset default styles */
+a > img { border: 0 }
+h1, h2, h3, h4, h5, h6 { margin: 0 }
+form { margin: 0; padding: 0 }
 fieldset { border: none; margin: 0; padding: 0 }

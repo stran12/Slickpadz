@@ -22,11 +22,33 @@
                 <input type="hidden" name="rent-max" value="" />
 
                 <h2>Filters</h2>
-                <div class="slider-container" id="slider-container">
+                <div class="rent-range row" id="rent-range-row">
                     <h4>Rent Range: <span id="rent-range"></span></h4>
                     <div id="rent-range-slider" class="slider"></div>
                 </div>
-                
+                <div class="bedrooms row" id="bedrooms-row">
+                    <h4>Bedrooms</h4>
+                    <div class="buttons clearFx">
+                        <a id="bed-0">Studio</a>
+                        <a id="bed-1">1</a>
+                        <a id="bed-2">2</a>
+                        <a id="bed-3">3</a>
+                        <a id="bed-4">4</a>
+                        <a id="bed-5">5</a>
+                        <a id="bed-6">6+</a>
+                    </div>
+                </div>
+                <div class="bathrooms row" id="bathrooms-row">
+                    <h4>Bathrooms</h4>
+                    <div class="buttons clearFx">
+                        <a id="bath-1">1</a>
+                        <a id="bath-2">2</a>
+                        <a id="bath-3">3</a>
+                        <a id="bath-4">4</a>
+                        <a id="bath-5">5</a>
+                    </div>
+                </div>
+
                 {% for filter_am in checklist %}
                 <div>
                     <input type="checkbox" name="amenities" value="{{ filter_am }}" />

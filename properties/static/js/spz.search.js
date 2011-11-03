@@ -3,9 +3,18 @@
  */
 spz.search = {
     init: function() {
+        spz.search.initFilters();
         spz.search.initMap();
-        spz.search.initSliders();
         spz.search.zebraStripe($('#data-grid'));
+    },
+    initFilters: function() {
+        spz.search.initSliders();
+        spz.search.initButtons();
+    },
+    initButtons: function() {
+        $("#filter-form .buttons > a").click(function(evt) {
+            $(this).toggleClass('selected');
+        });
     },
     /**
      * initializes google map
@@ -31,6 +40,9 @@ spz.search = {
 			});
         	
     },
+    /**
+     * rent range slider
+    */
     initSliders: function() {
         var $rentSlider = $("#rent-range-slider");
 
@@ -39,7 +51,7 @@ spz.search = {
             min: 0,
             max: 5000,
             step: 10,
-            values: [100, 500],
+            values: [100, 1000],
             slide: function(evt, ui) {
                 $("#rent-range").html("$"+ui.values[0]+" - $"+ui.values[1]);
             }

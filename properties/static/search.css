@@ -47,28 +47,30 @@ h1 { margin:0;
 }
 
 .slider-container { margin: 1em 0 }
-.slider-container input[type=text] {
-    width: 80px;
-    border: none;
+.filter-panel .row {
+    margin: 1em 0;
 }
-.slider-container h4 {
+.filter-panel h4 {
     font-weight: normal;
-    margin: 0 0 .8em;
+    margin: 0 0 .4em;
 }
-.slider-container h4 > span {
+.filter-panel h4 > span {
     font-weight: bold;
 }
-.slider-container > .slider {
+.filter-panel .slider {
     margin: 0 8px;
 }
 .filter-panel .buttons > a {
-    background: #f1f1f1;
+    background-color: #f1f1f1;
     border: 1px solid #999;
     border-width: 1px 1px 1px 0;
     float: left;
     line-height: 1.8em;
     padding: 0 .6em;
     cursor: pointer;
+    font-weight: bold;
+    background-image: -moz-linear-gradient(#f1f1f1, #dcdcdc);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f1f1f1), to(#dcdcdc));
 }
 .filter-panel .buttons > a:first-child {
     border-left-width: 1px;
@@ -80,4 +82,10 @@ h1 { margin:0;
     border-radius: 0 3px 3px 0;
     -moz-border-radius: 0 3px 3px 0;
     -webkit-border-radius: 0 3px 3px 0;
+}
+.filter-panel .buttons > a.selected {
+    color: #fff;
+    background-color: #f6a828;
+    background-image: -moz-linear-gradient(#fcd493, #f6a828);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fcd493), to(#f6a828));
 }
