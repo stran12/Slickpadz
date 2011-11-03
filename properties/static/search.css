@@ -8,10 +8,10 @@ h1 { margin:0;
 #searchbar { float:left; margin:6px 0 10px 0; }
 
 
-.filter-panel { float:left; height:400px; width:150px; }
+.filter-panel { float:left; height:400px; width:200px; }
 
 .main { float:left }
-.main > .map { height:400px; width:650px; }
+.main > .map { height:400px; min-width: 600px; }
 
 .footer { width:100%; background-color:gray; }
 
@@ -34,6 +34,8 @@ h1 { margin:0;
 
 .filter-panel {
     border: 1px solid #000;
+    margin: 0 8px;
+    padding: 8px;
 }
 /*
 .filter-panel input,
@@ -42,4 +44,48 @@ h1 { margin:0;
 .filter-panel input { margin-right: 1em }
 .filter-panel fieldset {
     margin: 1em 0
+}
+
+.slider-container { margin: 1em 0 }
+.filter-panel .row {
+    margin: 1em 0;
+}
+.filter-panel h4 {
+    font-weight: normal;
+    margin: 0 0 .4em;
+}
+.filter-panel h4 > span {
+    font-weight: bold;
+}
+.filter-panel .slider {
+    margin: 0 8px;
+}
+.filter-panel .buttons > a {
+    background-color: #f1f1f1;
+    border: 1px solid #999;
+    border-width: 1px 1px 1px 0;
+    float: left;
+    line-height: 1.8em;
+    padding: 0 .6em;
+    cursor: pointer;
+    font-weight: bold;
+    background-image: -moz-linear-gradient(#f1f1f1, #dcdcdc);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#f1f1f1), to(#dcdcdc));
+}
+.filter-panel .buttons > a:first-child {
+    border-left-width: 1px;
+    border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    -webkit-border-radius: 3px 0 0 3px;
+}
+.filter-panel .buttons > a:last-child {
+    border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+}
+.filter-panel .buttons > a.selected {
+    color: #fff;
+    background-color: #f6a828;
+    background-image: -moz-linear-gradient(#fcd493, #f6a828);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fcd493), to(#f6a828));
 }
