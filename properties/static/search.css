@@ -61,3 +61,23 @@ h1 { margin:0;
 .slider-container > .slider {
     margin: 0 8px;
 }
+.filter-panel .buttons > a {
+    background: #f1f1f1;
+    border: 1px solid #999;
+    border-width: 1px 1px 1px 0;
+    float: left;
+    line-height: 1.8em;
+    padding: 0 .6em;
+    cursor: pointer;
+}
+.filter-panel .buttons > a:first-child {
+    border-left-width: 1px;
+    border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    -webkit-border-radius: 3px 0 0 3px;
+}
+.filter-panel .buttons > a:last-child {
+    border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    -webkit-border-radius: 0 3px 3px 0;
+}
