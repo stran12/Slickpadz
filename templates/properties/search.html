@@ -17,15 +17,23 @@
             </div>
         </div>
         <div id="content" class="content clearFx">
-            <div id="filter-panel" class="filter-panel">
+            <form id="filter-form" method="get" class="filter-panel">
+                <input type="hidden" name="rent-min" value="" />
+                <input type="hidden" name="rent-max" value="" />
+
                 <h2>Filters</h2>
+                <div class="slider-container" id="slider-container">
+                    <h4>Rent Range: <span id="rent-range"></span></h4>
+                    <div id="rent-range-slider" class="slider"></div>
+                </div>
+                
                 {% for filter_am in checklist %}
                 <div>
                     <input type="checkbox" name="amenities" value="{{ filter_am }}" />
                     <label>{{ filter_am }}</label>
                 </div>
                 {% endfor %}
-            </div>
+            </form>
             <div id="main" class="main">	
                 <div id="map_canvas" class="map">
                     This is where the map will be.
