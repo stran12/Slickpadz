@@ -75,7 +75,7 @@ def search(request):
 				}
 				,context_instance=RequestContext(request),
 				)
-	# Otherwise, if there is no searchterm
+	# Otherwise, if there is no cityState_or_zip
 	else:
 		raise Http404
 

@@ -18,6 +18,18 @@ spz.search = {
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             },
             map = new google.maps.Map($("#map_canvas")[0], myOptions);
+        	
+        	var marker = new google.maps.Marker({
+        		position: latlng,
+        		map: map,
+			});
+
+			latlng = new google.maps.LatLng(40.74048, -74.00013);
+			marker = new google.maps.Marker({
+        		position: latlng,
+        		map: map,
+			});
+        	
     },
     initSliders: function() {
         var $rentSlider = $("#rent-range-slider");
