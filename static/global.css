@@ -1,0 +1,77 @@
+body {
+	margin: 0;
+	padding: 0;
+	font: normal 12px Verdana, Arial, sans-serif;
+}
+.search-form {
+    display: inline-block;
+    zoom: 1; /* ie7 hack for display:inline-block */
+    *display: inline;
+    border: solid 1px #d2d2d2;
+    padding: 3px 5px;
+    
+    -webkit-border-radius : 2em;
+    -moz-border-radius    : 2em;
+    border-radius         : 2em;
+
+    -webkit-box-shadow    : 0 1px 0px rgba(0,0,0,.1);
+    -moz-box-shadow       : 0 1px 0px rgba(0,0,0,.1);
+    box-shadow            : 0 1px 0px rgba(0,0,0,.1);
+
+    background: #f1f1f1;
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#fff), to(#ededed));
+    background: -moz-linear-gradient(top, #fff, #ededed);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed'); /* ie7 */
+    -ms-filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ededed'); /* ie8 */
+}
+.search-form input {
+    font: normal 12px/100% Verdana, Arial, sans-serif;
+}
+.search-form .term {
+    background: #fff;
+    padding: 6px 6px 6px 8px;
+    width: 102px;
+    border: solid 1px #bcbbbb;
+    outline: none;
+
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    border-radius: 2em;
+
+    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,.2);
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.2);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.2);
+}
+.search-form .btn {
+    color: #fff;
+    border: solid 1px #494949;
+    font-size: 11px;
+	font-weight: bold;
+    height: 27px;
+    width: 27px;
+    text-shadow: 0 1px 1px rgba(0,0,0,.6);
+
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    border-radius: 2em;
+
+    background: #5f5f5f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#9e9e9e), to(#454545));
+    background: -moz-linear-gradient(top,  #9e9e9e,  #454545);
+    filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e9e9e', endColorstr='#454545'); /* ie7 */
+    -ms-filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#9e9e9e', endColorstr='#454545'); /* ie8 */
+}
+.clearFx { height: 1% }
+.clearFx:after {
+    display: block;
+    visibility: hidden;
+    clear: both;
+    height: 0;
+    content: "."
+}
+
+/** Reset default styles */
+a > img { border: 0 }
+h1, h2, h3, h4, h5, h6 { margin: 0 }
+form { margin: 0; padding: 0 }
+fieldset { border: none; margin: 0; padding: 0 }

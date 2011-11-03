@@ -1,0 +1,44 @@
+.header { height:200px; width:800px; }
+
+.filter-panel { float:left; height:400px; width:150px; }
+
+.main { float:left }
+.main > .map { height:400px; width:650px; }
+
+.footer { width:800px; background-color:gray; }
+
+.search-wrapper {
+	width: 262px;
+	margin: 0 auto;
+}
+
+.search-form.main .term {
+	width: 202px;
+}
+.page.home h1 {
+	text-align: center;
+}
+
+.content-wrapper {
+	width: 80%;
+	margin: 0 auto;
+}
+.content-wrapper > .content-block {
+	padding: 0 1%;
+	float: left;
+	width: 27%;
+	margin-right: 5%;
+	border: 1px solid #000;
+	min-height: 200px;
+}
+.content-wrapper > .content-block:last-child {
+	margin-right: 0;
+}
+.content-wrapper > .content-block > h2 {
+	text-align: center;
+}
+
+.page.home .section {
+	margin-top: 1em;
+	margin-bottom: 3em;
+}
