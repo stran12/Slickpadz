@@ -17,7 +17,21 @@ spz.search = {
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             },
             map = new google.maps.Map($("#map_canvas")[0], myOptions);
+        	
+        	var marker = new google.maps.Marker({
+        		position: latlng,
+        		map: map,
+			});
+
+			latlng = new google.maps.LatLng(40.74048, -74.00013);
+			marker = new google.maps.Marker({
+        		position: latlng,
+        		map: map,
+			});
+        	
     },
+
+
     zebraStripe: function($table) {
         $table.find('tbody > tr:odd').addClass('odd');
     }
