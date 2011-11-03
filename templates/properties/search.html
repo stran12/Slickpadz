@@ -1,48 +1,49 @@
 <!doctype  html>
 <html>
-  <head>
-	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}global.css" />
-	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}search.css" />
-	  <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}jquery-ui-1.8.16.custom.css" />
-  </head>
-  <body>
-    <div id="header" class="header clearFx">
-		<h1>Slickpadz</h1>		
-        <div id="searchbar" class="searchbar">
-			<form action="/search" method="get" class="search-form">
-				<input type="text" name="cityState_or_zip" class="term" value="City, State or ZIP" />
-				<input type="submit" value="Go" class="btn" />
-			</form>
-    	</div>
-    </div>
-    <div id="content" class="content clearFx">
-        <div id="filter-panel" class="filter-panel">
-            <h2>Filters</h2>
-            {% for filter_am in checklist %}
-            <fieldset class="clearFx">
-                <input type="checkbox" name="amenities" value="{{ filter_am }}" />
-                <label>{{ filter_am }}</label>
-            </fieldset>
-            {% endfor %}
-        </div>
-        <div id="main" class="main">	
-            <div id="map_canvas" class="map">
-                This is where the map will be.
+    <head>
+        <title>slickpadz::search results</title>
+        <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}global.css" />
+        <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}search.css" />
+        <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}jquery-ui-1.8.16.custom.css" />
+    </head>
+    <body>
+        <div id="header" class="header clearFx">
+            <h1>Slickpadz</h1>		
+            <div id="searchbar" class="searchbar">
+                <form action="/search" method="get" class="search-form">
+                    <input type="text" name="cityState_or_zip" class="term" value="City, State or ZIP" />
+                    <input type="submit" value="Go" class="btn" />
+                </form>
             </div>
-            <table id="data-grid" class="data-grid">
-                <thead>
-                    <tr>
-                        {% for head in theaders %}
-                        <th>{{ head }}</th>
-                        {% endfor %}
-                        {% for item in checklist %}
-                        <th>{{ item }}</th>
-                        {% endfor %}
-                    </tr>
-                </thead>
-                <tbody>
-                    {% if vacancies %}
-                        {% for prop in vacancies %}
+        </div>
+        <div id="content" class="content clearFx">
+            <div id="filter-panel" class="filter-panel">
+                <h2>Filters</h2>
+                {% for filter_am in checklist %}
+                <div>
+                    <input type="checkbox" name="amenities" value="{{ filter_am }}" />
+                    <label>{{ filter_am }}</label>
+                </div>
+                {% endfor %}
+            </div>
+            <div id="main" class="main">	
+                <div id="map_canvas" class="map">
+                    This is where the map will be.
+                </div>
+                <table id="data-grid" class="data-grid">
+                    <thead>
+                        <tr>
+                            {% for head in theaders %}
+                            <th>{{ head }}</th>
+                            {% endfor %}
+                            {% for item in checklist %}
+                            <th>{{ item }}</th>
+                            {% endfor %}
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% if vacancies %}
+                            {% for prop in vacancies %}
                         <tr>
                             <td>{{ prop.name }}</td>
                             <td>{{ prop.price_low }} - {{ prop.price_high }}</td>
@@ -53,8 +54,8 @@
                             <th>{% if item %}x{% endif %}</th>
                             {% endfor %}
                         </tr>
-                        {% endfor %}
-                    {% endif %}
+                            {% endfor %}
+                        {% endif %}
                 </tbody>
             </table>
         </div>
@@ -64,41 +65,46 @@
 	</div>
 
 
-	<ul>	
-	{% if checklist %}
-	{% for item in checklist %}
-		<li> {{ item }} </li>	
-	{% endfor %}
-		
-{% endif %}
-</ul>	
-{% if vacancies %}
-	{% for prop in vacancies %}
-	<li>
-	{{ prop.address }}
-	{{ prop.name }}
-	{{ prop.bath }}
-	{% for amenity in prop.amenities_list %}
-		<li>{{ amenity}}</li>
-	{% endfor %}
-	</li>
-	{% endfor %}
-	
-{% endif %}
-{% if properties_list %}
-<ul>
-{% for prop in properties_list %}
-<li> {{ prop.name }} </li>
-{% endfor %}
-</ul>
-{% endif %}
-    <script type="text/javascript">
-        var serverContext = serverContext || {};
-    </script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-    <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-ui-1.8.16.custom.min.js"></script>
-    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
-    <script type="text/javascript" src="{{ STATIC_URL }}js/spz.js"></script>
-    <script type="text/javascript" src="{{ STATIC_URL }}js/spz.search.js"></script>
-</body>
+        {% if checklist %}
+        <ul>	
+        {% for item in checklist %}
+            <li> {{ item }} </li>	
+        {% endfor %}
+        </ul>	
+        {% endif %}
+
+        {% if vacancies %}
+        <ul>
+            {% for prop in vacancies %}
+            <li>
+            {{ prop.address }}
+            {{ prop.name }}
+            {{ prop.bath }}
+                <ul>
+                {% for amenity in prop.amenities_list %}
+                    <li>{{ amenity}}</li>
+                {% endfor %}
+                </ul>
+            </li>
+            {% endfor %}
+        </ul>    
+        {% endif %}
+
+        {% if properties_list %}
+        <ul>
+        {% for prop in properties_list %}
+        <li> {{ prop.name }} </li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+
+        <script type="text/javascript">
+            var serverContext = serverContext || {};
+        </script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}js/jquery-ui-1.8.16.custom.min.js"></script>
+        <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}js/spz.js"></script>
+        <script type="text/javascript" src="{{ STATIC_URL }}js/spz.search.js"></script>
+    </body>
 </html>

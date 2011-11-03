@@ -35,8 +35,10 @@ h1 { margin:0;
 .filter-panel {
     border: 1px solid #000;
 }
+/*
 .filter-panel input,
 .filter-panel label { float: left; display: block }
+*/
 .filter-panel input { margin-right: 1em }
 .filter-panel fieldset {
     margin: 1em 0
