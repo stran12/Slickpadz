@@ -8,5 +8,7 @@ admin.site.register(Manager)
 admin.site.register(Property)
 admin.site.register(Unit)
 admin.site.register(PropertyType)
+admin.site.register(LeaseType)
+admin.site.register(Status)
 
 
