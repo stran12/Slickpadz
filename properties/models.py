@@ -45,8 +45,8 @@ class Status(models.Model):
         return self.name
  
 class Property(models.Model):
-    name	 	= models.CharField(max_length=50)
-    address	  	= models.CharField(max_length=50, unique=True)
+    name	 	= models.CharField(max_length=100)
+    address	  	= models.CharField(max_length=100, unique=True)
     city 		= models.ForeignKey(City)
     state		= models.ForeignKey(State)
     zip_code	= models.IntegerField()
