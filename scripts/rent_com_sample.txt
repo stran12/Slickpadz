@@ -1,0 +1,499 @@
+1167755	The Piero	www.thepiero.com	Apartment	GHP Management	616 St. Paul Avenue	Los Angeles	CA	1	1		1640	1877	0	0	0	0	1	1	1	0	1	0	1	1	0	1	0	1	1	0
+1167755	The Piero	www.thepiero.com	Apartment	GHP Management	616 St. Paul Avenue	Los Angeles	CA	0	1		1572	2900	0	0	0	0	1	1	1	0	1	0	1	1	0	1	0	1	1	0
+1167755	The Piero	www.thepiero.com	Apartment	GHP Management	616 St. Paul Avenue	Los Angeles	CA	2	2		2411	3123	0	0	0	0	1	1	1	0	1	0	1	1	0	1	0	1	1	0
+431017	El Greco	www.elgrecoapts.com	Apartment	R.W. Selby & Co., Inc	1030 Tiverton Ave	Los Angeles	CA	0	1	375	1500	1700	0	0	1	1	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+431020	The Rose Luxury Apartments	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	10853 Rose Ave.	Los Angeles	CA	0	1	625	1250	1250	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1
+431020	The Rose Luxury Apartments	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	10853 Rose Ave.	Los Angeles	CA	1	1	865	1475	1575	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1
+431020	The Rose Luxury Apartments	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	10853 Rose Ave.	Los Angeles	CA	2	2	1110	1850	1925	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1
+431020	The Rose Luxury Apartments	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	10853 Rose Ave.	Los Angeles	CA	1	1		1649	1775	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1
+431020	The Rose Luxury Apartments	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	10853 Rose Ave.	Los Angeles	CA	1	1		1625	1775	1	0	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	1	1		1394	1595	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	1	1		1508	1606	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	1	1		1433	1433	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	2	2		1736	1853	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	2	2		1921	1921	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	1	1		1545	1545	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432516	Archstone Los Feliz		Apartment	Archstone	3100 Riverside	Los Angeles	CA	2	2		1952	1952	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+432533	Oakwood Toluca Hills	www.Oakwood.com/?source=9115	Apartment	Oakwood Worldwide	3600 Barham Blvd.	Los Angeles	CA	0	1	406	1179	1289	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1
+432533	Oakwood Toluca Hills	www.Oakwood.com/?source=9115	Apartment	Oakwood Worldwide	3600 Barham Blvd.	Los Angeles	CA	1	1	664	1449	1559	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1
+432533	Oakwood Toluca Hills	www.Oakwood.com/?source=9115	Apartment	Oakwood Worldwide	3600 Barham Blvd.	Los Angeles	CA	2	2	988	1949	2059	1	1	1	1	1	1	1	1	0	0	0	1	0	1	1	1	1	1
+433368	Pasadena Park Place	www.pasadenaparkplace.com	Apartment	GHP Management	101 Bridewell Street #102	Los Angeles	CA	0	1	575	981	1022	0	0	0	1	0	1	1	1	0	0	1	1	0	1	0	1	0	1
+433368	Pasadena Park Place	www.pasadenaparkplace.com	Apartment	GHP Management	101 Bridewell Street #102	Los Angeles	CA	1	1	720	1101	1217	0	0	0	1	0	1	1	1	0	0	1	1	0	1	0	1	0	1
+433368	Pasadena Park Place	www.pasadenaparkplace.com	Apartment	GHP Management	101 Bridewell Street #102	Los Angeles	CA	2	2	865	1380	1545	0	0	0	1	0	1	1	1	0	0	1	1	0	1	0	1	0	1
+433396	Skyline Terrace	www.skylineterraceapts.com	Apartment	GHP Management	930 Figueroa Terrace	Los Angeles	CA	1	1	580	1265	1265	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	1
+433396	Skyline Terrace	www.skylineterraceapts.com	Apartment	GHP Management	930 Figueroa Terrace	Los Angeles	CA	2	2	800	1782	1782	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	1
+433396	Skyline Terrace	www.skylineterraceapts.com	Apartment	GHP Management	930 Figueroa Terrace	Los Angeles	CA	1	1		1389	1389	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	1
+433396	Skyline Terrace	www.skylineterraceapts.com	Apartment	GHP Management	930 Figueroa Terrace	Los Angeles	CA	2	2		1797	1954	1	0	1	1	1	1	1	1	1	0	1	1	0	1	0	1	0	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	0	1		1150	1180	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	1	1		1500	1650	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	2	2		2150	2250	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	1	1		2000	2150	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	2	2		2200	2350	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	0	1		1100	1180	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	0	1		1200	1300	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	0	1		1200	1300	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	1	1		1650	1700	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433729	Rancho Los Feliz	www.esringapts.com/rancho-los-feliz-apartments	Apartment	E & S Ring Management Company	3205 Los Feliz Blvd.	Los Angeles	CA	0	1		1200	1300	1	0	1	1	1	0	1	0	0	0	1	0	0	1	0	0	1	1
+433967	Kelton Plaza	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	430 Kelton Avenue	Los Angeles	CA	1	1	520	1945	2095	0	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	1
+433967	Kelton Plaza	www.rwselby.com	Apartment	R.W. Selby & Co., Inc	430 Kelton Avenue	Los Angeles	CA	2	2	800	2725	2825	0	0	0	0	0	1	0	1	0	0	1	1	0	1	0	0	0	1
+434038	Villa Vicente	www.villavicente.com	Apartment	E & S Ring Management Company	5351 San Vicente Blvd.	Los Angeles	CA	1	1	600	1490	1638	1	0	1	0	1	0	1	0	0	0	0	1	1	1	0	0	1	1
+434038	Villa Vicente	www.villavicente.com	Apartment	E & S Ring Management Company	5351 San Vicente Blvd.	Los Angeles	CA	0	1	350	1095	1155	1	0	1	0	1	0	1	0	0	0	0	1	1	1	0	0	1	1
+434287	Kings Road	www.essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	733 North Kings Road	Los Angeles	CA	0	1		960	960	1	1	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+434287	Kings Road	www.essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	733 North Kings Road	Los Angeles	CA	0	1		1375	1375	1	1	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+434287	Kings Road	www.essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	733 North Kings Road	Los Angeles	CA	1	1		1625	1625	1	1	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+434287	Kings Road	www.essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	733 North Kings Road	Los Angeles	CA	1	1		1758	1758	1	1	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+434287	Kings Road	www.essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	733 North Kings Road	Los Angeles	CA	2	2		2100	2100	1	1	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+434287	Kings Road	www.essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	733 North Kings Road	Los Angeles	CA	2	2		2660	2660	1	1	1	0	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	1	1		1645	1645	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	1	1		1645	1645	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	1	1		1645	1645	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	0	1		1545	1545	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	2	2		1995	1995	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	2	2		1995	1995	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	2	2		1995	1995	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+434480	Essex Properties at Miracle Mile	essexpropertytrust.com	Apartment	Essex Property Trust, Inc.	400 S. Detroit Ave-Attn Leasing Office, Los Angeles	Los Angeles	CA	2	2		1995	1995	1	1	1	1	1	1	0	1	0	0	1	1	1	1	1	1	1	1
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	1	1		2025	2955	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	1	1		2229	2389	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	1	1		2249	2419	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2625	3029	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2418	3140	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2359	2579	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2559	2669	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2902	3284	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		3219	3643	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		3279	3700	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		3379	4417	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2819	3197	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435437	Broadcast Center Apartments	www.broadcastcenterapts.com	Apartment	AIMCO	7660 Beverly Boulevard	Los Angeles	CA	2	2		2872	3848	1	0	0	0	1	1	1	1	0	0	0	0	0	1	1	0	0	0
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	1	1		1543	1543	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	1	1		1652	1752	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	1	1		1840	1840	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	2	2		1915	2195	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	2	2		2124	2404	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	2	2		2160	2265	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435439	Alessio	www.brealessio.com	Apartment	BRE Properties, Inc.	5700 West Centinela	Los Angeles	CA	2	2		2330	2435	1	1	1	0	1	1	1	1	1	0	1	1	1	1	1	1	1	1
+435676	Museum Tower Apartments		Apartment	G & K Management	225 South Olive Street	Los Angeles	CA	1	1	600	1375	1875	1	0	1	0	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+435676	Museum Tower Apartments		Apartment	G & K Management	225 South Olive Street	Los Angeles	CA	0	1	477	1150	1400	1	0	1	0	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+435676	Museum Tower Apartments		Apartment	G & K Management	225 South Olive Street	Los Angeles	CA	2	2	1150	1950	2700	1	0	1	0	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	1	1		1545	1845	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	0	1		1458	1578	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	0	1		1458	1458	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	1	1		1574	1599	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	1	1		1574	1869	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	1	1		1645	1870	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	1	1		1620	1795	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	2	2		1832	2207	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	2	2		2137	2587	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	0	1		1486	1486	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	0	1		1358	1538	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	0	1		1358	1528	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	0	1		1358	1558	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436113	Vantage at Hollywood Hills	www.serravellaapartments.com	Apartment	Prometheus Real Estate Group	1710 North Fuller Avenue	Los Angeles	CA	1	1		1642	1642	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1	1	0	0
+436673	Promenade Towers	www.gkind.com	Apartment	G & K Management	123 S. Figueroa St.	Los Angeles	CA	0	1	306	900	1075	1	0	1	0	1	1	1	1	0	0	0	1	0	0	0	0	1	1
+436673	Promenade Towers	www.gkind.com	Apartment	G & K Management	123 S. Figueroa St.	Los Angeles	CA	1	1	750	1175	1700	1	0	1	0	1	1	1	1	0	0	0	1	0	0	0	0	1	1
+436673	Promenade Towers	www.gkind.com	Apartment	G & K Management	123 S. Figueroa St.	Los Angeles	CA	2	2	903	1450	2500	1	0	1	0	1	1	1	1	0	0	0	1	0	0	0	0	1	1
+437664	Park Catalina	parkcatalinaapartments.com/?ils=7	Apartment	Greystar Real Estate Partners	690 S. Catalina Street	Los Angeles	CA	0	1		1480	1550	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	0
+437664	Park Catalina	parkcatalinaapartments.com/?ils=7	Apartment	Greystar Real Estate Partners	690 S. Catalina Street	Los Angeles	CA	1	1		1430	1575	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	0
+437664	Park Catalina	parkcatalinaapartments.com/?ils=7	Apartment	Greystar Real Estate Partners	690 S. Catalina Street	Los Angeles	CA	2	2		1860	1975	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	0
+437664	Park Catalina	parkcatalinaapartments.com/?ils=7	Apartment	Greystar Real Estate Partners	690 S. Catalina Street	Los Angeles	CA	2	2		1885	2025	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	0
+437664	Park Catalina	parkcatalinaapartments.com/?ils=7	Apartment	Greystar Real Estate Partners	690 S. Catalina Street	Los Angeles	CA	2	2		2330	2360	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	0
+437900	West Temple Apartments		Apartment	Castlerock Property Management, Inc.	2410 W. Temple Avenue	Los Angeles	CA	2	2		1500	1500	0	0	1	1	0	0	0	0	0	0	1	1	1	1	0	1	0	1
+437900	West Temple Apartments		Apartment	Castlerock Property Management, Inc.	2410 W. Temple Avenue	Los Angeles	CA	1	1		1100	1100	0	0	1	1	0	0	0	0	0	0	1	1	1	1	0	1	0	1
+439027	Hampshire Place	www.equityapartments.com/Brochure.aspx?PropertyId=2509	Apartment	Equity Residential	501 S. New Hampshire Avenue	Los Angeles	CA	0	1		1300	1340	1	0	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+439027	Hampshire Place	www.equityapartments.com/Brochure.aspx?PropertyId=2509	Apartment	Equity Residential	501 S. New Hampshire Avenue	Los Angeles	CA	1	1		1365	1460	1	0	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+439027	Hampshire Place	www.equityapartments.com/Brochure.aspx?PropertyId=2509	Apartment	Equity Residential	501 S. New Hampshire Avenue	Los Angeles	CA	2	2		1800	1865	1	0	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+439027	Hampshire Place	www.equityapartments.com/Brochure.aspx?PropertyId=2509	Apartment	Equity Residential	501 S. New Hampshire Avenue	Los Angeles	CA	2	2		1730	1730	1	0	1	0	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+439073	Sycamore Villa	www.fusionpmc.com	Apartment	Fusion PMC	1320 North Sycamore	Los Angeles	CA	2	2		1745	1845	1	1	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	1
+439073	Sycamore Villa	www.fusionpmc.com	Apartment	Fusion PMC	1320 North Sycamore	Los Angeles	CA	1	1		1495	1550	1	1	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	1
+439073	Sycamore Villa	www.fusionpmc.com	Apartment	Fusion PMC	1320 North Sycamore	Los Angeles	CA	0	1		1195	1245	1	1	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	1
+439073	Sycamore Villa	www.fusionpmc.com	Apartment	Fusion PMC	1320 North Sycamore	Los Angeles	CA	1	1		1395	1450	1	1	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	1
+439073	Sycamore Villa	www.fusionpmc.com	Apartment	Fusion PMC	1320 North Sycamore	Los Angeles	CA	2	1		1745	1795	1	1	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	0	1		1461	1556	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	1	1		1439	1769	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	2	1		1880	2478	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	1	1		1396	1881	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	3	2.5		2319	3399	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	3	2		2826	3750	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+439126	Park La Brea	www.parklabrea.com	Apartment	PLB Management	6200 W 3rd Street	Los Angeles	CA	2	2		1682	2484	1	1	1	1	1	1	1	1	0	0	1	1	1	1	0	1	1	1
+441874	Park Pointe Apartments		Apartment	J.K. Residential Services, Inc.	211 South Lafayette Park	Los Angeles	CA	0	1		900	900	0	0	1	1	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+441874	Park Pointe Apartments		Apartment	J.K. Residential Services, Inc.	211 South Lafayette Park	Los Angeles	CA	1	1		1025	1025	0	0	1	1	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+441874	Park Pointe Apartments		Apartment	J.K. Residential Services, Inc.	211 South Lafayette Park	Los Angeles	CA	0	1		775	775	0	0	1	1	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+441874	Park Pointe Apartments		Apartment	J.K. Residential Services, Inc.	211 South Lafayette Park	Los Angeles	CA	1	1		975	975	0	0	1	1	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	1	1		1480	1520	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	2	1.5		1765	1765	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	2	2		1730	1765	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	3			2480	2480	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	3			2575	2675	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	2	1.5		1970	1970	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	3	2		2355	2360	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+443278	The Madrid Apartments	www.themadrid.com	Apartment	Carmel Partners, Inc.	8655 Belford Avenue	Los Angeles	CA	3	2		2410	2505	1	1	1	1	1	1	1	0	0	0	0	1	1	1	0	1	1	1
+454485	The Met	www.the-met.net	Apartment	Forest City Residential	950 South Flower Street	Los Angeles	CA	0	1		1581	1817	1	0	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1
+454485	The Met	www.the-met.net	Apartment	Forest City Residential	950 South Flower Street	Los Angeles	CA	1	1		1822	2494	1	0	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1
+454485	The Met	www.the-met.net	Apartment	Forest City Residential	950 South Flower Street	Los Angeles	CA	2	2		2382	2754	1	0	1	0	1	1	1	1	0	0	1	1	0	0	0	1	1	1
+455774	Franklin Plaza	franklinplazaapts.com	Apartment	Prometheus Real Estate Group	7230 Franklin Avenue	Los Angeles	CA	1	1		1644	1769	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+455774	Franklin Plaza	franklinplazaapts.com	Apartment	Prometheus Real Estate Group	7230 Franklin Avenue	Los Angeles	CA	1	1		1594	1734	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+455774	Franklin Plaza	franklinplazaapts.com	Apartment	Prometheus Real Estate Group	7230 Franklin Avenue	Los Angeles	CA	1	1		1801	1876	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+455774	Franklin Plaza	franklinplazaapts.com	Apartment	Prometheus Real Estate Group	7230 Franklin Avenue	Los Angeles	CA	1	1		1757	1882	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+455774	Franklin Plaza	franklinplazaapts.com	Apartment	Prometheus Real Estate Group	7230 Franklin Avenue	Los Angeles	CA	2	1		2314	2404	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		950	1199	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		950	1199	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		950	1199	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		950	1199	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		1220	1220	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		1380	1485	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	0	1		1295	1365	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	1	1		1450	1450	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	1	1		1450	1475	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	1	1		1425	1425	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	1	1		1550	1625	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	2	1		1595	1795	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	2	2		1595	1795	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	2	1		2045	2145	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+455840	VIDA Hollywood Apartments	www.vidahollywoodapts.com	Apartment	Carmel Partners, Inc.	1745 North Wilcox Avenue	Los Angeles	CA	2	2		2405	2460	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	0	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	1	1		2545	2945	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3195	3595	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	3	2		4995	5295	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3395	3895	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3095	3495	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3695	3995	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	1	1		2345	2845	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3595	3995	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3195	3845	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+456642	555 Barrington Avenue Apartments	www.douglasemmett.com	Apartment	Douglas Emmett & Company	555 South Barrington Avenue	Los Angeles	CA	2	2		3345	3745	1	1	0	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	1	1		1899	2273	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	1	1		1998	2566	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	1	1		2249	2874	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		2499	3224	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		2615	3526	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		3019	3709	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		3062	3760	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	1	1		1978	2403	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	1	1		2119	2644	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	1	1		2423	2814	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		2589	3222	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		3109	3562	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		2539	2990	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+460070	Villas at Park La Brea Apartments	www.thevillasapts.com	Apartment	AIMCO	5555 West 6th Street	Los Angeles	CA	2	2		2789	3256	1	1	0	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+463166	Sepulveda West Apartments		Apartment	Moss & Company	8501 Sepulveda	Los Angeles	CA	1	1		1525	1525	1	0	1	0	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+463166	Sepulveda West Apartments		Apartment	Moss & Company	8501 Sepulveda	Los Angeles	CA	0	1		1025	1025	1	0	1	0	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+463166	Sepulveda West Apartments		Apartment	Moss & Company	8501 Sepulveda	Los Angeles	CA	2	2		1650	1650	1	0	1	0	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+470295	Majestic East Apartments	http://www.jasincompany.com	Apartment	Jasin Company	11677 Goshen Ave	Los Angeles	CA	1	1		1444	1444	1	0	1	0	1	0	0	1	0	0	1	1	0	1	0	1	0	0
+470302	Le Conte Westwood Village	http://www.jasincompany.com	Apartment	Jasin Company	886 S Hilgard Ave	Los Angeles	CA	1	1		1695	1695	1	0	1	1	1	0	0	1	0	0	1	1	0	1	1	0	0	0
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	1	1		1490	1490	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	1	1		1700	1700	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	2	1.5		2025	2025	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	2	1.5		2850	2850	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	2	2		2150	2150	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	0			1375	1375	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	0	1		1255	1255	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472111	Westwood Apartments	www.WestwoodApartmentsUCLA.com	Apartment	Carmel Partners, Inc.	415 Gayley Ave	Los Angeles	CA	0	1		1500	1500	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	0	1	1
+472128	Westwood Village Apartments		Apartment	Moss & Company	1033 Hilgard	Los Angeles	CA	0	1		2600	2600	1	0	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1
+472128	Westwood Village Apartments		Apartment	Moss & Company	1033 Hilgard	Los Angeles	CA	1	1		3250	3250	1	0	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1
+472128	Westwood Village Apartments		Apartment	Moss & Company	1033 Hilgard	Los Angeles	CA	2	1		3650	3650	1	0	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	0	1		1225	1225	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	1	1		1525	1525	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	2	2		1845	1895	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	2	2		2575	2800	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	0	1		1575	1575	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	1	1		1895	1895	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	0	1		1375	1425	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	0	1		1200	1250	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472153	Woodcliff Apartments		Apartment	Moss & Company	3201 Overland	Los Angeles	CA	2	1		1945	1995	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+472567	Westwood Villa Apartments	www.westwoodvillaapts.com	Apartment	Moss & Company	2901  South Sepulveda	Los Angeles	CA	1	1		1489	1539	1	0	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+472567	Westwood Villa Apartments	www.westwoodvillaapts.com	Apartment	Moss & Company	2901  South Sepulveda	Los Angeles	CA	1	1		1389	1439	1	0	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+472567	Westwood Villa Apartments	www.westwoodvillaapts.com	Apartment	Moss & Company	2901  South Sepulveda	Los Angeles	CA	2	1		1545	1545	1	0	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+473807	Del Rio Apartments	http://www.delrioapts.com	Apartment	Francis Property Management, Inc.	3430 South Sepulveda Blvd	Los Angeles	CA	2	1		1785	1850	1	0	1	1	1	0	0	1	0	0	1	1	1	1	0	0	1	1
+473807	Del Rio Apartments	http://www.delrioapts.com	Apartment	Francis Property Management, Inc.	3430 South Sepulveda Blvd	Los Angeles	CA	0	1		1350	1389	1	0	1	1	1	0	0	1	0	0	1	1	1	1	0	0	1	1
+473807	Del Rio Apartments	http://www.delrioapts.com	Apartment	Francis Property Management, Inc.	3430 South Sepulveda Blvd	Los Angeles	CA	1	1		1450	1500	1	0	1	1	1	0	0	1	0	0	1	1	1	1	0	0	1	1
+474187	The Summit Apartments	FRANCISPM.COM	Apartment	Francis Property Management, Inc.	7266 Franklin Avenue	Los Angeles	CA	2	2		2025	2050	1	0	0	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+474187	The Summit Apartments	FRANCISPM.COM	Apartment	Francis Property Management, Inc.	7266 Franklin Avenue	Los Angeles	CA	1	1		1850	1850	1	0	0	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+474862	The Pinnacle Apartments		Apartment	Francis Property Management, Inc.	1860 North Fuller Avenue	Los Angeles	CA	2	2		1985	1985	1	0	0	0	1	1	1	1	0	0	1	0	0	1	1	1	1	1
+474862	The Pinnacle Apartments		Apartment	Francis Property Management, Inc.	1860 North Fuller Avenue	Los Angeles	CA	2	2		2050	2050	1	0	0	0	1	1	1	1	0	0	1	0	0	1	1	1	1	1
+474862	The Pinnacle Apartments		Apartment	Francis Property Management, Inc.	1860 North Fuller Avenue	Los Angeles	CA	1	1		1600	1600	1	0	0	0	1	1	1	1	0	0	1	0	0	1	1	1	1	1
+475036	Sutton Place Apartments		Apartment	Francis Property Management, Inc.	1616 North Fuller Avenue	Los Angeles	CA	0	1		1345	1345	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+475036	Sutton Place Apartments		Apartment	Francis Property Management, Inc.	1616 North Fuller Avenue	Los Angeles	CA	1	1		1450	1450	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+475036	Sutton Place Apartments		Apartment	Francis Property Management, Inc.	1616 North Fuller Avenue	Los Angeles	CA	1	1		1259	1259	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+475733	The Orsini I, II, III	www.theorsini.com	Apartment	GHP Management	550 North Figueroa Street	Los Angeles	CA	0	1		1500	1700	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+475733	The Orsini I, II, III	www.theorsini.com	Apartment	GHP Management	550 North Figueroa Street	Los Angeles	CA	1	1		1600	1900	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+475733	The Orsini I, II, III	www.theorsini.com	Apartment	GHP Management	550 North Figueroa Street	Los Angeles	CA	2	2		1980	2900	1	1	1	1	1	1	1	1	1	0	1	1	0	1	0	1	1	1
+476895	Burton Way Luxury Apartments	www.burtonwayapts.com	Apartment	R.W. Selby & Co., Inc	8665 Burton Way	Los Angeles	CA	2	2		2800	3700	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+476895	Burton Way Luxury Apartments	www.burtonwayapts.com	Apartment	R.W. Selby & Co., Inc	8665 Burton Way	Los Angeles	CA	1	1		1645	2250	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+476895	Burton Way Luxury Apartments	www.burtonwayapts.com	Apartment	R.W. Selby & Co., Inc	8665 Burton Way	Los Angeles	CA	1	1		1920	2690	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+477744	The Meridian Apartments		Apartment	R.W. Selby & Co., Inc	3516 Sawtelle Boulevard	Los Angeles	CA	1	1		1500	1740	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1
+477744	The Meridian Apartments		Apartment	R.W. Selby & Co., Inc	3516 Sawtelle Boulevard	Los Angeles	CA	-1	1		1700	1795	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1
+477744	The Meridian Apartments		Apartment	R.W. Selby & Co., Inc	3516 Sawtelle Boulevard	Los Angeles	CA	2	1		1675	1875	1	0	1	1	1	1	0	0	0	0	1	1	1	1	1	1	1	1
+479894	CLARINGTON COURT APARTMENTS	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	3475 Clarington Avenue	Los Angeles	CA	2	2		1795	1795	1	0	1	1	1	0	1	1	0	0	0	1	0	1	0	1	0	0
+479897	3665 Hughes Avenue Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	3665 Hughes Avenue	Los Angeles	CA	1	1		1425	1425	0	0	0	0	1	0	1	1	0	0	1	1	0	0	1	0	0	0
+479897	3665 Hughes Avenue Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	3665 Hughes Avenue	Los Angeles	CA	2	2		1750	1750	0	0	0	0	1	0	1	1	0	0	1	1	0	0	1	0	0	0
+479897	3665 Hughes Avenue Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	3665 Hughes Avenue	Los Angeles	CA	1	2		1695	1695	0	0	0	0	1	0	1	1	0	0	1	1	0	0	1	0	0	0
+479906	PALMS COURT APARTMENTS	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	10125 Palms Boulevard	Los Angeles	CA	2	2		1795	1795	1	0	1	1	1	0	1	1	0	0	0	1	0	1	0	1	0	0
+479908	10800 Rose Avenue Apartments	10800rose.googlepages.com	Apartment	Berglas Daley & Garfield	10800 Rose Avenue	Los Angeles	CA	1	1		1345	1345	1	0	1	1	1	0	0	0	0	0	1	1	0	1	0	0	0	1
+479908	10800 Rose Avenue Apartments	10800rose.googlepages.com	Apartment	Berglas Daley & Garfield	10800 Rose Avenue	Los Angeles	CA	2	2		1750	1750	1	0	1	1	1	0	0	0	0	0	1	1	0	1	0	0	0	1
+479909	10825 Rose Avenue Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	10825 Rose Avenue	Los Angeles	CA	1	1		1345	1345	1	0	1	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0
+479909	10825 Rose Avenue Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	10825 Rose Avenue	Los Angeles	CA	2	2		1650	1650	1	0	1	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0
+479909	10825 Rose Avenue Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	10825 Rose Avenue	Los Angeles	CA	1	1		1550	1550	1	0	1	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0
+481134	Barrington Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11668 Kiowa Avenue	Los Angeles	CA	1	1		1600	1900	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+481134	Barrington Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11668 Kiowa Avenue	Los Angeles	CA	2	2		2000	2300	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+481134	Barrington Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11668 Kiowa Avenue	Los Angeles	CA	3	3		2600	3000	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+481134	Barrington Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11668 Kiowa Avenue	Los Angeles	CA	0	1		1450	1475	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+481135	Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11717 Kiowa Avenue	Los Angeles	CA	1	1		1700	2300	1	0	1	0	1	0	0	0	0	0	1	1	0	0	1	0	0	0
+481135	Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11717 Kiowa Avenue	Los Angeles	CA	2	2		2200	2595	1	0	1	0	1	0	0	0	0	0	1	1	0	0	1	0	0	0
+481135	Kiowa Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11717 Kiowa Avenue	Los Angeles	CA	-1	2		2100	2700	1	0	1	0	1	0	0	0	0	0	1	1	0	0	1	0	0	0
+481136	Barry Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	1145 Barry Avenue	Los Angeles	CA	0	1		1300	1400	0	0	1	1	1	0	0	1	0	0	1	1	0	1	0	0	0	1
+481136	Barry Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	1145 Barry Avenue	Los Angeles	CA	1	1		1550	1650	0	0	1	1	1	0	0	1	0	0	1	1	0	1	0	0	0	1
+481136	Barry Properties	www.douglasemmett.com	Apartment	Douglas Emmett & Company	1145 Barry Avenue	Los Angeles	CA	2	2		1950	2200	0	0	1	1	1	0	0	1	0	0	1	1	0	1	0	0	0	1
+479904	11650 National Boulevard Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	11650 National Boulevard	Los Angeles	CA	1	1		1375	1375	1	1	1	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0
+479904	11650 National Boulevard Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	11650 National Boulevard	Los Angeles	CA	2	1		1685	1685	1	1	1	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0
+479904	11650 National Boulevard Apartments	www.daleygarfield.com	Apartment	Berglas Daley & Garfield	11650 National Boulevard	Los Angeles	CA	0	1		1200	1200	1	1	1	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0
+484156	Landmark Apartments	www.fusionpmc.com	Apartment	Fusion PMC	7044 Hawthorne Avenue	Los Angeles	CA	0	1		1095	1100	1	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0
+484156	Landmark Apartments	www.fusionpmc.com	Apartment	Fusion PMC	7044 Hawthorne Avenue	Los Angeles	CA	0	1		1395	1400	1	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0
+484156	Landmark Apartments	www.fusionpmc.com	Apartment	Fusion PMC	7044 Hawthorne Avenue	Los Angeles	CA	1	1		1400	1450	1	1	0	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0
+484466	Tiffany Court	www.breTiffanyCourt.com	Apartment	BRE Properties, Inc.	616 Masselin Avenue	Los Angeles	CA	1	1		1810	1810	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+484466	Tiffany Court	www.breTiffanyCourt.com	Apartment	BRE Properties, Inc.	616 Masselin Avenue	Los Angeles	CA	1	1		1820	1870	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+484466	Tiffany Court	www.breTiffanyCourt.com	Apartment	BRE Properties, Inc.	616 Masselin Avenue	Los Angeles	CA	2	2		2250	2250	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+484466	Tiffany Court	www.breTiffanyCourt.com	Apartment	BRE Properties, Inc.	616 Masselin Avenue	Los Angeles	CA	1	1		1905	1955	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+484466	Tiffany Court	www.breTiffanyCourt.com	Apartment	BRE Properties, Inc.	616 Masselin Avenue	Los Angeles	CA	1	1		1765	1765	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+484466	Tiffany Court	www.breTiffanyCourt.com	Apartment	BRE Properties, Inc.	616 Masselin Avenue	Los Angeles	CA	0	1		1639	1704	1	1	1	1	1	0	0	1	0	0	1	1	0	1	1	1	1	1
+484842	5015 Clinton	www.redwoodurban.com	Apartment	Legacy Partners	5015 Clinton Street	Los Angeles	CA	2	2		1995	2100	0	0	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	1
+486177	Santee Court	www.santeecourt.com	Apartment	Essex Property Trust, Inc.	716 South Los Angeles Street, Suite B	Los Angeles	CA	-1	1		1390	2750	1	1	1	0	1	1	0	1	0	0	1	1	0	0	0	1	1	1
+470301	Eastborne Properties III	http://www.jasincompany.com	Apartment	Jasin Company	10644 Eastborne Ave	Los Angeles	CA	1	1		1554	1554	1	0	1	1	0	0	0	1	0	0	1	1	0	1	0	1	0	0
+487205	Emerson Apartments	www.fusionpmc.com	Apartment	Fusion PMC	8555 Emerson Avenue	Los Angeles	CA	0	1		1300	1350	1	1	0	1	0	0	0	1	0	0	1	1	1	1	1	1	1	1
+487205	Emerson Apartments	www.fusionpmc.com	Apartment	Fusion PMC	8555 Emerson Avenue	Los Angeles	CA	1	1.5		1400	1675	1	1	0	1	0	0	0	1	0	0	1	1	1	1	1	1	1	1
+487205	Emerson Apartments	www.fusionpmc.com	Apartment	Fusion PMC	8555 Emerson Avenue	Los Angeles	CA	2	2.5		1800	2000	1	1	0	1	0	0	0	1	0	0	1	1	1	1	1	1	1	1
+487864	Los Feliz Summit	www.Anchorpacifica.com	Apartment	Anchor Pacifica Group	3901 Los Feliz Boulevard	Los Angeles	CA	2	2		1850	1950	1	0	1	1	1	0	1	1	0	0	0	1	0	1	0	1	0	1
+487864	Los Feliz Summit	www.Anchorpacifica.com	Apartment	Anchor Pacifica Group	3901 Los Feliz Boulevard	Los Angeles	CA	1	1		1395	1450	1	0	1	1	1	0	1	1	0	0	0	1	0	1	0	1	0	1
+488288	Gas Company Lofts	www.SimplyBetterRentals.com	Apartment	Simply Better Management Co LLC	820 South Flower Street	Los Angeles	CA	1	1		2425	2425	1	1	1	0	0	0	0	1	1	0	1	1	1	0	0	1	1	1
+488288	Gas Company Lofts	www.SimplyBetterRentals.com	Apartment	Simply Better Management Co LLC	820 South Flower Street	Los Angeles	CA	-1	1		1725	1850	1	1	1	0	0	0	0	1	1	0	1	1	1	0	0	1	1	1
+488288	Gas Company Lofts	www.SimplyBetterRentals.com	Apartment	Simply Better Management Co LLC	820 South Flower Street	Los Angeles	CA	-1	1		1475	1795	1	1	1	0	0	0	0	1	1	0	1	1	1	0	0	1	1	1
+488288	Gas Company Lofts	www.SimplyBetterRentals.com	Apartment	Simply Better Management Co LLC	820 South Flower Street	Los Angeles	CA	2	2		2280	3325	1	1	1	0	0	0	0	1	1	0	1	1	1	0	0	1	1	1
+491350	1260 Veteran		Apartment	Realty Center Management	1260 Veteran Avenue	Los Angeles	CA	0	1		1300	1300	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	0	1
+491350	1260 Veteran		Apartment	Realty Center Management	1260 Veteran Avenue	Los Angeles	CA	1	1		1750	1750	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	0	1
+491350	1260 Veteran		Apartment	Realty Center Management	1260 Veteran Avenue	Los Angeles	CA	2	2		2400	2400	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	0	1
+491350	1260 Veteran		Apartment	Realty Center Management	1260 Veteran Avenue	Los Angeles	CA	-1	1		1550	1550	1	1	1	1	1	0	1	1	0	0	1	1	1	1	0	1	0	1
+505602	The Rochester Apartments	www.TheRochesterApts.com	Apartment	R.W. Selby & Co., Inc	10959 Rochester Avenue	Los Angeles	CA	1	1		1775	1875	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1
+505602	The Rochester Apartments	www.TheRochesterApts.com	Apartment	R.W. Selby & Co., Inc	10959 Rochester Avenue	Los Angeles	CA	1	1		1925	2025	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1
+505602	The Rochester Apartments	www.TheRochesterApts.com	Apartment	R.W. Selby & Co., Inc	10959 Rochester Avenue	Los Angeles	CA	1	1		1985	2085	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1
+505602	The Rochester Apartments	www.TheRochesterApts.com	Apartment	R.W. Selby & Co., Inc	10959 Rochester Avenue	Los Angeles	CA	2	2		2685	2785	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1
+505602	The Rochester Apartments	www.TheRochesterApts.com	Apartment	R.W. Selby & Co., Inc	10959 Rochester Avenue	Los Angeles	CA	2	2		2775	2875	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1
+505602	The Rochester Apartments	www.TheRochesterApts.com	Apartment	R.W. Selby & Co., Inc	10959 Rochester Avenue	Los Angeles	CA	2	2		2770	2870	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	0	1
+505625	Ben Lomond Apartments		Apartment	Yale Management Services, Inc.	3400 Ben Lomond Place	Los Angeles	CA	1	1		1395	1395	1	0	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+505625	Ben Lomond Apartments		Apartment	Yale Management Services, Inc.	3400 Ben Lomond Place	Los Angeles	CA	0	1		995	995	1	0	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+505625	Ben Lomond Apartments		Apartment	Yale Management Services, Inc.	3400 Ben Lomond Place	Los Angeles	CA	2	2		1695	1695	1	0	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+505625	Ben Lomond Apartments		Apartment	Yale Management Services, Inc.	3400 Ben Lomond Place	Los Angeles	CA	1	1		1575	1575	1	0	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	0	1		1100	1400	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	1	1		1600	1900	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	3	2		3100	3500	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	4	2		3200	3600	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	0	1		1350	1600	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	2	1		1900	2100	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	1	1		1900	2100	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505628	Los Feliz Plaza	www.losfelizplaza.com	Apartment	Yu Properties	3949 Los Feliz Boulevard	Los Angeles	CA	2	2		2400	2600	1	1	1	1	1	1	1	1	0	0	1	1	1	0	1	1	1	1
+505676	Masselin Park West	www.masselinparkwestapts.com	Apartment	Legacy Partners	5700 West 6th Street	Los Angeles	CA	2	1.5		1925	1925	1	1	1	1	1	1	1	1	0	0	0	1	0	1	0	0	1	1
+505676	Masselin Park West	www.masselinparkwestapts.com	Apartment	Legacy Partners	5700 West 6th Street	Los Angeles	CA	2	2		2025	2045	1	1	1	1	1	1	1	1	0	0	0	1	0	1	0	0	1	1
+505676	Masselin Park West	www.masselinparkwestapts.com	Apartment	Legacy Partners	5700 West 6th Street	Los Angeles	CA	1	1		1710	1710	1	1	1	1	1	1	1	1	0	0	0	1	0	1	0	0	1	1
+505676	Masselin Park West	www.masselinparkwestapts.com	Apartment	Legacy Partners	5700 West 6th Street	Los Angeles	CA	1	1		1725	1725	1	1	1	1	1	1	1	1	0	0	0	1	0	1	0	0	1	1
+505676	Masselin Park West	www.masselinparkwestapts.com	Apartment	Legacy Partners	5700 West 6th Street	Los Angeles	CA	2	2		2125	2125	1	1	1	1	1	1	1	1	0	0	0	1	0	1	0	0	1	1
+505689	920 Wilcox		Condo	Moss & Company	920 Wilcox	Los Angeles	CA	2	2		2350	2350	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+505689	920 Wilcox		Condo	Moss & Company	920 Wilcox	Los Angeles	CA	2	2		2200	2200	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	0	1		1435	1435	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	0	1		1410	1410	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	0	1		1440	1440	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	1	1		1610	1610	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	1	1		1615	1615	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	1	1		1600	1600	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2005	2005	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2235	2235	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2245	2245	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2170	2170	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	1	1		1660	1660	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2325	2325	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	0	1		1370	1370	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2265	2265	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2105	2105	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	0	1		1445	1445	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	0	1		1475	1475	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	1	1		1610	1610	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505710	Avalon Sunset	avaloncommunities.com/avaloncore/nfloor.asp?comm=260	Apartment	AvalonBay Communities	1443 North Fuller Avenue	Los Angeles	CA	2	2		2340	2340	1	1	1	0	0	1	1	1	0	0	1	1	0	1	1	1	1	1
+505714	La Vista Terrace	www.rpkdevelopment.com	Apartment	RPK Development	7275 Franklin Avenue	Los Angeles	CA	2	1		1700	1900	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+505714	La Vista Terrace	www.rpkdevelopment.com	Apartment	RPK Development	7275 Franklin Avenue	Los Angeles	CA	1	1		1450	1750	0	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	0	1
+505722	Burton Square		Apartment	The Ostrow Company	8660 Burton Way	Los Angeles	CA	0	1		1195	1195	1	0	1	0	0	0	0	1	0	0	1	1	0	1	0	1	0	0
+505722	Burton Square		Apartment	The Ostrow Company	8660 Burton Way	Los Angeles	CA	1	1		1495	1625	1	0	1	0	0	0	0	1	0	0	1	1	0	1	0	1	0	0
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	0	1		2100	2400	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	1	1		2000	2600	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	2	2		2500	2900	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	-1	1		2800	3200	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	1	1		2600	2800	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	3	2		4500	4500	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	1	1		2800	3200	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	2	2		2900	3400	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505731	Versailles	www.versaillesla.com	Apartment	Yu Properties	8811 Burton Way	Los Angeles	CA	2	2		3500	4500	0	0	1	1	1	1	1	1	0	0	1	1	0	0	1	0	1	1
+505750	Park View Apartments		Apartment	J.K. Residential Services, Inc.	511 South Park View Street	Los Angeles	CA	1	1		995	1049	0	0	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+505750	Park View Apartments		Apartment	J.K. Residential Services, Inc.	511 South Park View Street	Los Angeles	CA	2	1		1280	1280	0	0	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+505750	Park View Apartments		Apartment	J.K. Residential Services, Inc.	511 South Park View Street	Los Angeles	CA	2	2		1385	1385	0	0	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+505756	Park Overland Apartments		Apartment	Integrated Property Services, Inc.	2600 Overland Avenue	Los Angeles	CA	2	2		2195	2395	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+505756	Park Overland Apartments		Apartment	Integrated Property Services, Inc.	2600 Overland Avenue	Los Angeles	CA	1	1		1445	1515	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+505756	Park Overland Apartments		Apartment	Integrated Property Services, Inc.	2600 Overland Avenue	Los Angeles	CA	1	1		1725	1945	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+505756	Park Overland Apartments		Apartment	Integrated Property Services, Inc.	2600 Overland Avenue	Los Angeles	CA	2	2		1895	2245	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+505756	Park Overland Apartments		Apartment	Integrated Property Services, Inc.	2600 Overland Avenue	Los Angeles	CA	1	1		1595	1745	1	0	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+505757	Terrace Trousdale Apartment Homes	www.terracetrousdale.com	Townhome	Domino Realty	11400 National Boulevard	Los Angeles	CA	2	2		1995	2115	1	0	1	1	0	1	1	0	0	0	0	1	0	1	0	0	1	1
+505757	Terrace Trousdale Apartment Homes	www.terracetrousdale.com	Townhome	Domino Realty	11400 National Boulevard	Los Angeles	CA	2	2		1995	2015	1	0	1	1	0	1	1	0	0	0	0	1	0	1	0	0	1	1
+505773	Monterra at Hollywood Hills	www.monterrahh.com	Apartment	Cirrus Asset Management, Inc	2330 North Cahuenga Blvd.	Los Angeles	CA	2	2		1999	2100	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	1	1	1
+505773	Monterra at Hollywood Hills	www.monterrahh.com	Apartment	Cirrus Asset Management, Inc	2330 North Cahuenga Blvd.	Los Angeles	CA	2	2		2175	2250	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	1	1	1
+505773	Monterra at Hollywood Hills	www.monterrahh.com	Apartment	Cirrus Asset Management, Inc	2330 North Cahuenga Blvd.	Los Angeles	CA	1	1		1600	1675	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	1	1	1
+505773	Monterra at Hollywood Hills	www.monterrahh.com	Apartment	Cirrus Asset Management, Inc	2330 North Cahuenga Blvd.	Los Angeles	CA	1	1		1525	1550	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	1	1	1
+527261	Pacific Electric Lofts	www.pelofts.com	Apartment	ICO Development	610 South Main Street	Los Angeles	CA	-1	1		1560	3215	1	1	1	0	1	1	1	1	1	0	1	1	0	0	0	1	1	1
+527261	Pacific Electric Lofts	www.pelofts.com	Apartment	ICO Development	610 South Main Street	Los Angeles	CA	1	1		1825	2139	1	1	1	0	1	1	1	1	1	0	1	1	0	0	0	1	1	1
+527296	Kingsley Plaza Apartments	www.legacypartners.com	Apartment	Legacy Partners	444 South Kinsley Drive	Los Angeles	CA	-1	1		1600	1650	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+527296	Kingsley Plaza Apartments	www.legacypartners.com	Apartment	Legacy Partners	444 South Kinsley Drive	Los Angeles	CA	0	1		1100	1190	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+527296	Kingsley Plaza Apartments	www.legacypartners.com	Apartment	Legacy Partners	444 South Kinsley Drive	Los Angeles	CA	1	1		1340	1440	1	1	1	1	1	1	0	1	0	0	1	1	0	1	1	1	1	1
+527461	Riverglen Apartments		Apartment	Century Quality Management	2850 Riverside Drive	Los Angeles	CA	1	1		1100	1200	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	0	0	1
+527461	Riverglen Apartments		Apartment	Century Quality Management	2850 Riverside Drive	Los Angeles	CA	2	2		1350	1500	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	0	0	1
+527461	Riverglen Apartments		Apartment	Century Quality Management	2850 Riverside Drive	Los Angeles	CA	3	2		1650	1800	1	1	1	1	0	0	0	1	0	0	1	1	1	1	0	0	0	1
+533550	Poinsettia Club Apartments		Apartment	Mashcole Property Management	1444 North Poinsettia Place	Los Angeles	CA	0	1		1145	1145	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1
+533550	Poinsettia Club Apartments		Apartment	Mashcole Property Management	1444 North Poinsettia Place	Los Angeles	CA	1	1		1345	1445	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1
+533550	Poinsettia Club Apartments		Apartment	Mashcole Property Management	1444 North Poinsettia Place	Los Angeles	CA	2	2		1995	1995	1	1	1	1	0	0	1	1	0	0	1	1	1	1	0	0	1	1
+538928	Premier Tower Apartment Condo's	w w w . c i t y l o f t s q u a r e . c o m	Apartment	City Loft Square Apartments	621 South Spring Street	Los Angeles	CA	2	2		1600	1850	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	1
+538928	Premier Tower Apartment Condo's	w w w . c i t y l o f t s q u a r e . c o m	Apartment	City Loft Square Apartments	621 South Spring Street	Los Angeles	CA	1	1		1300	1550	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	1
+538928	Premier Tower Apartment Condo's	w w w . c i t y l o f t s q u a r e . c o m	Apartment	City Loft Square Apartments	621 South Spring Street	Los Angeles	CA	3	2		2100	2100	1	1	1	0	0	0	1	1	0	0	1	1	1	1	0	1	1	1
+538931	Spring Tower Lofts	w w w . c i t y l o f t s q u a r e . c o m	Apartment	City Loft Square Apartments	639 South Spring Street	Los Angeles	CA	-1	2		2300	3000	1	1	1	0	0	0	0	1	0	0	1	1	0	0	0	0	1	1
+540013	Park Burton Apartments		Apartment	The Ostrow Company	8711 Burton Way	Los Angeles	CA	1	1		1450	1895	1	0	1	0	0	0	0	1	0	0	1	1	0	1	1	1	0	1
+540013	Park Burton Apartments		Apartment	The Ostrow Company	8711 Burton Way	Los Angeles	CA	2	2		1995	1995	1	0	1	0	0	0	0	1	0	0	1	1	0	1	1	1	0	1
+540453	The Brentwood Tuscany	socal4rent.com	Apartment	Integrated Property Services, Inc.	11611 Chenault Street	Los Angeles	CA	0	1		1380	1610	1	0	1	1	1	0	1	1	0	0	1	1	0	1	0	1	1	1
+540453	The Brentwood Tuscany	socal4rent.com	Apartment	Integrated Property Services, Inc.	11611 Chenault Street	Los Angeles	CA	1	1		1895	2145	1	0	1	1	1	0	1	1	0	0	1	1	0	1	0	1	1	1
+540453	The Brentwood Tuscany	socal4rent.com	Apartment	Integrated Property Services, Inc.	11611 Chenault Street	Los Angeles	CA	2	2		2345	2745	1	0	1	1	1	0	1	1	0	0	1	1	0	1	0	1	1	1
+540932	219 South Mariposa Apartments		Apartment	Realty Center Management	219 South Mariposa	Los Angeles	CA	1	1		875	995	1	1	1	1	0	0	0	0	0	0	1	0	1	1	0	1	0	1
+540932	219 South Mariposa Apartments		Apartment	Realty Center Management	219 South Mariposa	Los Angeles	CA	2	1.5		1350	1350	1	1	1	1	0	0	0	0	0	0	1	0	1	1	0	1	0	1
+538929	The City Lofts	w w w . c i t y l o f t s q u a r e . c o m	Apartment	City Loft Square Apartments	626 South Spring Street	Los Angeles	CA	-1	1		1350	2000	1	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	1	0
+546276	Metro 417	www.metro417.com	Apartment	Forest City Residential	417 South Hill Street	Los Angeles	CA	0	1		1353	1541	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
+546276	Metro 417	www.metro417.com	Apartment	Forest City Residential	417 South Hill Street	Los Angeles	CA	1	1		1713	2287	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
+546276	Metro 417	www.metro417.com	Apartment	Forest City Residential	417 South Hill Street	Los Angeles	CA	2	2		2412	3045	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
+546276	Metro 417	www.metro417.com	Apartment	Forest City Residential	417 South Hill Street	Los Angeles	CA	2	2		4847	4912	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
+546276	Metro 417	www.metro417.com	Apartment	Forest City Residential	417 South Hill Street	Los Angeles	CA	1	1		1609	1913	1	1	1	1	0	1	1	1	1	0	1	1	1	1	0	1	1	1
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1548	2926	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		2157	3311	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		2170	2926	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1655	1845	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1685	1765	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1805	1805	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		2100	2410	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1765	1900	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1945	1945	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		2205	2205	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		2310	2310	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		2099	2299	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		2099	2299	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		2200	2500	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		1752	1752	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		2510	2510	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	1		2425	2425	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		2530	2530	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		3165	3165	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		2740	2740	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		3195	3195	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		2699	2999	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		3470	3470	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		2499	2499	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	2	2		2530	2530	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	1	2		3560	3620	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+546273	Met Lofts	www.metlofts.com	Apartment	Alliance Residential Company	1050 S. Flower Street	Los Angeles	CA	0	1		1865	1865	1	1	1	1	1	0	1	1	1	0	0	1	1	0	0	1	0	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1620	1620	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1810	1810	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1860	1860	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1898	1898	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1920	1920	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		2035	2035	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2265	2265	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2360	2360	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2285	2285	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2540	2540	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	3	2		3220	3220	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	3	2		3020	3020	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	3	2		3285	3285	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		2070	2070	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1900	1900	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2470	2470	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1940	1940	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2410	2410	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		2020	2020	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2485	2485	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	3	2		3400	3400	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	2	2		2780	2780	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+551264	Avalon Del Rey	avaloncommunities.com/avaloncore/nfloor.asp?comm=174	Apartment	AvalonBay Communities	5535 Westlawn Avenue	Los Angeles	CA	1	1		1680	1680	1	1	0	0	1	1	1	0	1	0	1	0	0	0	0	1	1	0
+437984	Virgil Square	www.equityapartments.com/Brochure.aspx?PropertyId=2543	Apartment	Equity Residential	411 South Virgil	Los Angeles	CA	0	1		995	995	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0
+437984	Virgil Square	www.equityapartments.com/Brochure.aspx?PropertyId=2543	Apartment	Equity Residential	411 South Virgil	Los Angeles	CA	1	1		1330	1340	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0
+437984	Virgil Square	www.equityapartments.com/Brochure.aspx?PropertyId=2543	Apartment	Equity Residential	411 South Virgil	Los Angeles	CA	2	2		1585	1585	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0
+437984	Virgil Square	www.equityapartments.com/Brochure.aspx?PropertyId=2543	Apartment	Equity Residential	411 South Virgil	Los Angeles	CA	1	1		1750	1750	1	1	1	0	1	0	0	1	0	0	1	1	0	1	0	1	1	0
+429886	Park West	www.equityapartments.com/Brochure.aspx?PropertyId=725	Apartment	Equity Residential	9400 La Tijera Blvd.	Los Angeles	CA	0	1		1305	1380	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+429886	Park West	www.equityapartments.com/Brochure.aspx?PropertyId=725	Apartment	Equity Residential	9400 La Tijera Blvd.	Los Angeles	CA	1	1		1430	1495	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+429886	Park West	www.equityapartments.com/Brochure.aspx?PropertyId=725	Apartment	Equity Residential	9400 La Tijera Blvd.	Los Angeles	CA	1	1		1505	1575	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+429886	Park West	www.equityapartments.com/Brochure.aspx?PropertyId=725	Apartment	Equity Residential	9400 La Tijera Blvd.	Los Angeles	CA	2	1		1850	1850	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+429886	Park West	www.equityapartments.com/Brochure.aspx?PropertyId=725	Apartment	Equity Residential	9400 La Tijera Blvd.	Los Angeles	CA	2	2		1915	1945	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+429886	Park West	www.equityapartments.com/Brochure.aspx?PropertyId=725	Apartment	Equity Residential	9400 La Tijera Blvd.	Los Angeles	CA	2	2		1910	2000	1	1	1	1	1	1	1	1	0	0	1	1	0	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0	1		1335	1335	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0			1765	1765	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	1			1805	1805	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2			1870	1870	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2			1895	1895	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2			1915	1955	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2			1820	1820	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2			2115	2115	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	1			1890	1890	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0			1160	1160	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0			1700	1700	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2			1970	1970	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0	1		1350	1350	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2060	2060	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0	1		1275	1275	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2050	2120	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2360	2360	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2555	2555	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0	1		1495	1495	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2105	2105	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2245	2385	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	1	1		2060	2060	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0	1		1455	1455	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	2	2		2285	3005	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+441945	Westside Villas	www.equityapartments.com/Brochure.aspx?PropertyId=1636	Apartment	Equity Residential	2245 S. Beverly Glen	Los Angeles	CA	0	1		1430	1430	1	1	1	1	0	0	0	1	1	0	1	1	1	1	1	1	1	1
+554210	Madison Hancock Park	www.madisonhancockpark.com	Apartment	Pinnacle Family of Companies	627 North Rossmore Avenue	Los Angeles	CA	1	1		1899	1969	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	1
+554210	Madison Hancock Park	www.madisonhancockpark.com	Apartment	Pinnacle Family of Companies	627 North Rossmore Avenue	Los Angeles	CA	2	2		2350	2500	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	1
+554210	Madison Hancock Park	www.madisonhancockpark.com	Apartment	Pinnacle Family of Companies	627 North Rossmore Avenue	Los Angeles	CA	2	2		2295	2500	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	1
+554210	Madison Hancock Park	www.madisonhancockpark.com	Apartment	Pinnacle Family of Companies	627 North Rossmore Avenue	Los Angeles	CA	1	1		1845	1965	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	0	1
+556392	Catalina Tropics		Apartment	Gerosabren Corp., Inc	455 South Catalina Street	Los Angeles	CA	0	1		925	950	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0	1	1	1
+556392	Catalina Tropics		Apartment	Gerosabren Corp., Inc	455 South Catalina Street	Los Angeles	CA	1	1		1100	1150	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0	1	1	1
+556392	Catalina Tropics		Apartment	Gerosabren Corp., Inc	455 South Catalina Street	Los Angeles	CA	1	1		1100	1150	1	1	1	1	1	0	0	0	0	0	0	1	1	1	0	1	1	1
+486188	Archstone Westside	www.archstoneapartments.com	Apartment	Archstone	3165 Sawtelle Boulevard	Los Angeles	CA	1	1		1906	1965	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+486188	Archstone Westside	www.archstoneapartments.com	Apartment	Archstone	3165 Sawtelle Boulevard	Los Angeles	CA	1	1		2200	2221	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+486188	Archstone Westside	www.archstoneapartments.com	Apartment	Archstone	3165 Sawtelle Boulevard	Los Angeles	CA	1	1		2319	2329	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+486188	Archstone Westside	www.archstoneapartments.com	Apartment	Archstone	3165 Sawtelle Boulevard	Los Angeles	CA	2	2		2756	2760	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+486188	Archstone Westside	www.archstoneapartments.com	Apartment	Archstone	3165 Sawtelle Boulevard	Los Angeles	CA	2	2		2709	2711	1	1	1	1	1	1	1	1	1	0	1	1	0	1	1	1	1	1
+464598	Barrington Plaza	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11740 Wilshire Boulevard	Los Angeles	CA	0	1		1300	1600	1	1	1	0	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+464598	Barrington Plaza	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11740 Wilshire Boulevard	Los Angeles	CA	1	1		1650	2000	1	1	1	0	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+464598	Barrington Plaza	www.douglasemmett.com	Apartment	Douglas Emmett & Company	11740 Wilshire Boulevard	Los Angeles	CA	2	2		2200	2995	1	1	1	0	1	0	1	1	0	0	1	1	0	1	0	0	0	1
+434288	The Chadwick Apartment Homes	www.chadwickapts.com	Apartment	FPI Management, Inc.	209 S Westmoreland Ave	Los Angeles	CA	0	1	390	900	1025	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+434288	The Chadwick Apartment Homes	www.chadwickapts.com	Apartment	FPI Management, Inc.	209 S Westmoreland Ave	Los Angeles	CA	1	1	658	1225	1250	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+434288	The Chadwick Apartment Homes	www.chadwickapts.com	Apartment	FPI Management, Inc.	209 S Westmoreland Ave	Los Angeles	CA	2	2	870	1599	1850	1	1	1	1	1	1	1	1	0	0	1	1	0	1	0	1	1	1
+562056	5119 Maplewood	www.redwoodurban.com	Apartment	Legacy Partners	5119 Maplewood Avenue	Los Angeles	CA	2	2		1795	1895	0	0	1	1	1	0	1	1	0	0	1	1	0	1	1	1	1	0
+562070	The Tower at Hollywood Hills	hollywoodhills.riverstoneres.com	Apartment	Riverstone Residential Group	1800 North Normandie Avenue	Los Angeles	CA	0	1		1200	1325	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+562070	The Tower at Hollywood Hills	hollywoodhills.riverstoneres.com	Apartment	Riverstone Residential Group	1800 North Normandie Avenue	Los Angeles	CA	1	1		1677	1677	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+562070	The Tower at Hollywood Hills	hollywoodhills.riverstoneres.com	Apartment	Riverstone Residential Group	1800 North Normandie Avenue	Los Angeles	CA	2	2		1960	1960	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+562070	The Tower at Hollywood Hills	hollywoodhills.riverstoneres.com	Apartment	Riverstone Residential Group	1800 North Normandie Avenue	Los Angeles	CA	1	1		1750	1750	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+562070	The Tower at Hollywood Hills	hollywoodhills.riverstoneres.com	Apartment	Riverstone Residential Group	1800 North Normandie Avenue	Los Angeles	CA	-1	1.5		1625	1625	1	1	0	0	1	1	1	1	0	0	1	1	1	1	1	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	1	1		1725	1725	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2050	2050	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	1	1		1700	1700	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2050	2050	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	1	1		1682	1682	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	1	1		1700	1700	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2001	2001	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	0	1		1483	1483	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2015	2015	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	1	1.5		1884	1884	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2501	2501	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2.5		2500	2500	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2			2208	2208	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2658	2658	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2031	2031	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	1	1		1600	1600	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2050	2050	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	2	2		2060	2060	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
+680636	Belmont Station		Apartment	Essex Property Trust, Inc.	1304 W 2nd Street	Los Angeles	CA	3	2.5		3042	3042	1	1	0	1	1	1	1	1	1	1	1	1	0	1	0	1	1	1
