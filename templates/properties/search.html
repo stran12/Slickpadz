@@ -94,8 +94,8 @@
                             {% for prop in vacancies %}
                         <tr>
                             <td>{{ prop.name }}</td>
-                            <td>{{ prop.price_low }} - {{ prop.price_high }}</td>
-                            <th>{{ prop.bed }}</th>
+                            <td>${{ prop.price_low }} - ${{ prop.price_high }}</td>
+                            <th>{% if prop.bed == 0 %}Studio{% else %}{{ prop.bed }}{% endif %}</th>
                             <th>{{ prop.bath }}</th>
                             <td>{{ prop.prop_type }}</td>
                             {% for item in prop.amenities_list %}
@@ -110,9 +110,9 @@
     </div>
     <div id="footer" class="footer">
         This the nonchalant footer.
-	</div>
+    </div>
 
-
+    {% if false %}
         {% if checklist %}
         <ul>	
         {% for item in checklist %}
@@ -145,7 +145,7 @@
         {% endfor %}
         </ul>
         {% endif %}
-
+    {% endif %}
         <script type="text/javascript">
             var serverContext = serverContext || {};
         </script>
