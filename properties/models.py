@@ -5,42 +5,42 @@ from location.models import State, City
 import datetime
 
 class PhoneNumber(models.Model):
-    number = models.CharField(max_length=10)
+    number = models.CharField(max_length=10, unique=True)
     ext    = models.CharField(max_length=6, blank=True)
     def __unicode__(self):
         return self.number + ' ' + self.ext
 
 class Source(models.Model):
-    name = models.CharField(max_length=50)
+    name = models.CharField(max_length=50, unique=True)
     url  = models.CharField(max_length=50)
     def __unicode__(self):
         return self.name
 
 
 class Manager(models.Model):
-    name	= models.CharField(max_length=50)
+    name	= models.CharField(max_length=50, unique=True)
     phone	= models.ForeignKey(PhoneNumber)
     url		= models.CharField(max_length=100, blank=True)
     def __unicode__(self):
         return self.name
 
 class PropertyType(models.Model):
-    name = models.CharField(max_length=15)
+    name = models.CharField(max_length=15, unique=True)
     def __unicode__(self):
         return self.name
 
 class Amenity(models.Model):
-    name = models.CharField(max_length=50)
+    name = models.CharField(max_length=50, unique=True)
     def __unicode__(self):
         return self.name
 
 class LeaseType(models.Model):
-    name = models.CharField(max_length=20)
+    name = models.CharField(max_length=20, unique=True)
     def __unicode__(self):
         return self.name
 
 class Status(models.Model):
-    name = models.CharField(max_length=20)
+    name = models.CharField(max_length=20, unique=True)
     def __unicode__(self):
         return self.name
  
