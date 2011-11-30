@@ -8,6 +8,18 @@ spz.search = {
         spz.search.zebraStripe($('#data-grid'));
     },
     initFilters: function() {
+        $("#title-wrapper").click(function(evt) {
+            if ($('.filter-panel:visible').length) {
+                $('.filter-panel')
+                    .slideUp('fast')
+                    .animate({ opacity: 0 }, { queue: false, duration: 'fast' });
+            } else {
+                $('.filter-panel')
+                    .css('opacity', 0)
+                    .slideDown('fast')
+                    .animate( { opacity: 1 }, { queue: false, duration: 'fast' });
+            }
+        });
         spz.search.initSliders();
         spz.search.initButtons();
     },
@@ -27,7 +39,7 @@ spz.search = {
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             },
             map = new google.maps.Map($("#map_canvas")[0], myOptions);
-        
+
             var marker = new google.maps.Marker({
                 position: latlng,
                 map: map,
@@ -38,7 +50,7 @@ spz.search = {
                 position: latlng,
                 map: map,
             });
-       
+
     },
     /**
      * rent range slider

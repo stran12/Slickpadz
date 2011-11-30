@@ -1,19 +1,24 @@
 body { width:100% }
 
-.header { height:30px; 
-          width:97.9%; 
-          background-color:gray;
-          padding: 5px 10px;
+.header {
+    height:40px;
+    line-height: 40px;
+    width:100%;
+    background-color:gray;
+    position: relative;
 }
 
-h1 { 
- 	 color:white; 
-	 float:left; 
+h1 {
+ 	 color:white;
+	 float:left;
 	 font-family: 'Helvetica Neue', Arial, sans-serif;
      font-size: 20px;
      font-smooth: -webkit-font-smoothing: antialiased;
-     padding: 0 3px 0 0;
+     padding: 0 3px 0 10px;
 }
+
+#title-wrapper h1,
+#title-wrapper h2 { cursor: pointer }
 
 h2 {
 	 font-family: 'Helvetica Neue', Arial, sans-serif;
@@ -25,12 +30,14 @@ h2 {
 .header > a {
     color:white;
     float: right;
-    padding: 5px 0 0 0;
+    margin-right: 10px;
 }
 #searchbar { float:left; margin:6px 0 10px 0; }
 
+.content {
+    padding: 10px;
+}
 
-.filter-panel { float:left; height:400px; width:200px; }
 
 .main { float:left }
 .main > .map { height:400px; min-width: 600px; }
@@ -38,6 +45,7 @@ h2 {
 .footer { width:100%; background-color:gray; }
 
 .data-grid {
+    width: 100%;
     margin-top: 1em;
     border-collapse: collapse;
     border: 1px solid #000;
@@ -56,6 +64,13 @@ h2 {
 
 .filter-panel {
     padding: 10px;
+    width: 320px;
+    position: absolute;
+    display: none;
+    z-index: 10;
+    height: 300px;
+    background: #fff;
+    top: 40px;
 }
 /*
 .filter-panel input,
