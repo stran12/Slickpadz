@@ -1,13 +1,32 @@
-.header { height:25px; width:100%; background-color:gray;}
+body { width:100% }
 
-h1 { margin:0 8px; 
-	 padding:0 15px 0 0; 
+.header { height:30px; 
+          width:97.9%; 
+          background-color:gray;
+          padding: 5px 10px;
+}
+
+h1 { 
  	 color:white; 
 	 float:left; 
+	 font-family: 'Helvetica Neue', Arial, sans-serif;
      font-size: 20px;
-     font-weight: 2em;
- }
+     font-smooth: -webkit-font-smoothing: antialiased;
+     padding: 0 3px 0 0;
+}
 
+h2 {
+	 font-family: 'Helvetica Neue', Arial, sans-serif;
+     float:left;
+     font-size: 18px;
+     font-style: italic;
+}
+
+.header > a {
+    color:white;
+    float: right;
+    padding: 5px 0 0 0;
+}
 #searchbar { float:left; margin:6px 0 10px 0; }
 
 
@@ -36,8 +55,7 @@ h1 { margin:0 8px;
 .data-grid > tbody > tr.odd { background: #ccc }
 
 .filter-panel {
-    margin: 0 8px;
-    padding: 8px;
+    padding: 10px;
 }
 /*
 .filter-panel input,
