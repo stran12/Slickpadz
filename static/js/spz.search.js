@@ -51,7 +51,7 @@ spz.search = {
             min: 0,
             max: 5000,
             step: 10,
-            values: [100, 1000],
+            values: [100, 4000],
             slide: function(evt, ui) {
                 $("#rent-range").html("$"+ui.values[0]+" - $"+ui.values[1]);
             }

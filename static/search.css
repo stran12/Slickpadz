@@ -1,9 +1,12 @@
-.header { width:100%; }
+.header { height:25px; width:100%; background-color:gray;}
 
-h1 { margin:0; 
+h1 { margin:0 8px; 
 	 padding:0 15px 0 0; 
- 	 color:#8A4117; 
-	 float:left; }
+ 	 color:white; 
+	 float:left; 
+     font-size: 20px;
+     font-weight: 2em;
+ }
 
 #searchbar { float:left; margin:6px 0 10px 0; }
 
@@ -33,7 +36,6 @@ h1 { margin:0;
 .data-grid > tbody > tr.odd { background: #ccc }
 
 .filter-panel {
-    border: 1px solid #000;
     margin: 0 8px;
     padding: 8px;
 }
