@@ -146,6 +146,8 @@ def api(request):
             attr['phone'] 		= u.prop.phone.number
             attr['prop_url'] 	= u.prop.prop_url
             attr['prop_type'] 	= u.prop.prop_type.name
+            attr['latitude']    = u.prop.latitude
+            attr['longitude']   = u.prop.longitude
 
             prop_amen_list = []
 
