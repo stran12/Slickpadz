@@ -51,7 +51,7 @@ class Property(models.Model):
     state		= models.ForeignKey(State)
     zip_code	= models.IntegerField()
     manager     = models.ForeignKey(Manager)
-    phone		= models.ManyToManyField(PhoneNumber)
+    phone		= models.ForeignKey(PhoneNumber)
     source		= models.ForeignKey(Source)
     prop_url	= models.CharField(max_length=200, blank=True)
     prop_type	= models.ForeignKey(PropertyType)
