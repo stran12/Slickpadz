@@ -29,17 +29,19 @@ import json
 # contact
 
 
-ph = PhoneNumber.objects.create(
+ph = PhoneNumber.objects.get_or_create(
         number="3105551234"
-        )
+        )[0]
+
 city  = City.objects.get(name='Los Angeles')
 state = State.objects.get(name='California')
-lt    = LeaseType.objects.create(
+
+lt    = LeaseType.objects.get_or_create(
                 name = "1 year",
-                )
-st    = Status.objects.create(
+                )[0]
+st    = Status.objects.get_or_create(
                 name = "active",
-                )
+                )[0]
 
 i = 0
 with open("rent_com_sample.txt") as f:
@@ -49,41 +51,42 @@ with open("rent_com_sample.txt") as f:
         else:
             i = i+1
         (purl, pname, psite, ptype, pmanager, paddress, pcity, pstate, ubed, ubath, umin, umax, a1, a2, a3, a4, a5, a6, a7, a8, a9, a10, a11, a12, a13, a14, a15, a16, a17, a18, a19) = line.split("\t")
-#        print pname
-        man = Manager.objects.create(
-                name        = pmanager,
-                phone       = ph,
-                url         = psite
-                )
+        print ph
+        #re.sub(r'[-()]', r'',ph)
+        man = Manager.objects.get_or_create(
+                name        = pmanager, 
+                defaults    = {'phone': ph, 'url': psite}
+                )[0]
 
 
-        s = Source.objects.create(
-                name        = pmanager,
-                url         = "www.rent.com"
-                )
+        s = Source.objects.get_or_create(
+                name        = pmanager, defaults = {'url': 'www.rent.com'}
+                )[0]
 
-        pt = PropertyType.objects.create(
+        pt = PropertyType.objects.get_or_create(
                 name        = ptype
-                )
+                )[0]
 
         p = 0;
         try:
             p = Property.objects.get(address=paddress)
         except Property.DoesNotExist:
-            p = Property.objects.create(
-                name        = pname,
+            p = Property.objects.get_or_create(
                 address     = paddress,
-                city        = city,
-                state       = state,
-                zip_code    = 90064,
-                manager     = man,
-                source      = s,
-                prop_url    = "http://rent.com/" + purl,
-                prop_type   = pt,
-                lease_type  = lt,
-                status      = st
-                )
-            p.phone.add(ph)
+                defaults= {
+                    'name'        : pname,
+                    'city'        : city,
+                    'state'       : state,
+                    'zip_code'    : 90064,
+                    'manager'     : man,
+                    'source'      : s,
+                    'prop_url'    : "http://rent.com/" + purl,
+                    'prop_type'   : pt,
+                    'lease_type'  : lt,
+                    'status'      : st,
+                    'phone'       : ph
+                }
+                )[0]
 
         Unit.objects.create(
                 prop        = p,
