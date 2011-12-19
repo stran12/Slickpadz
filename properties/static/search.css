@@ -1,4 +1,5 @@
-body { width:100% }
+html { height: 90%; }
+body { width:100%; height:100% }
 
 .header {
     height:40px;
@@ -11,7 +12,7 @@ body { width:100% }
 h1 {
  	 color:white;
 	 float:left;
-	 font-family: 'Helvetica Neue', Arial, sans-serif;
+	 font-family:'Helvetica Neue', Arial, sans-serif;
      font-size: 20px;
      font-smooth: -webkit-font-smoothing: antialiased;
      padding: 0 3px 0 10px;
@@ -21,32 +22,30 @@ h1 {
 #title-wrapper h2 { cursor: pointer }
 
 h2 {
-	 font-family: 'Helvetica Neue', Arial, sans-serif;
+	 font-family:'Helvetica Neue', Arial, sans-serif;
      float:left;
-     font-size: 18px;
-     font-style: italic;
+     font-size:20px;
+     font-style:italic;
 }
 
 .header > a {
     color:white;
     float: right;
-    margin-right: 10px;
+    margin-right:10px;
 }
 #searchbar { float:left; margin:6px 0 10px 0; }
 
-.content {
-    padding: 10px;
-}
 
 
-.main { float:left }
-.main > .map { height:400px; min-width: 600px; }
+.content { width:100%; height:100%}
+.main { float:left; width: 100%; height:100% }
+.main > .map { height:65%; min-height:300px; min-width:320px; width:100%; }
 
 .footer { width:100%; background-color:gray; }
 
 .data-grid {
     width: 100%;
-    margin-top: 1em;
+    height: 222px;
     border-collapse: collapse;
     border: 1px solid #000;
 }
