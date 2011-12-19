@@ -3,6 +3,11 @@
  */
 spz.search = {
     init: function() {
+        if (screen.width<=400){
+            $("html").css('width', "320px");
+            $(".data-grid").html('');
+        }
+
         spz.search.initFilters();
         spz.search.initMap();
         spz.search.zebraStripe($('#data-grid'));
