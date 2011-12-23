@@ -11,24 +11,41 @@ from django.template import RequestContext
 from django.http import Http404
 
 def index(request):
+    from location.models import City, State
+    cities = City.objects.select_related().all()
+    cities_list = []
+    for city in cities:
+        cities_list.append(city.name + ', ' + city.state.name)
+
     return render_to_response('properties/index.html',
-                               context_instance=RequestContext(request),
+                               {
+                                   'cities_list': cities_list,
+                               }
+                               ,context_instance=RequestContext(request),
                               )
 
 # This should only return the template to be rendered that will then call api to
 # fill DOM elements in the search page
-def search(request):
+def search(request, city, state):
     from django.http import HttpResponseRedirect
 
-    cityState_or_zip = request.GET.get('cityState_or_zip')
     checklist = [] # This is a checklist of all amenities to be listed in filter panel
     vacancies = [] # Container array to hold all properties with their information for table
     # Main headers outside of amenities checklist.
     # The header of the table will be theaders.extend(checklist)
     theaders  = ['Name', 'Price', 'Bed', 'Bath', 'Type']
 
-    if cityState_or_zip:
-        units_list = Unit.objects.select_related().all()
+    #if cityState_or_zip:
+    if city and state:
+        # Sanitation
+        # from django.http import HttpResponse # For Debugging
+        import re
+        city = re.sub('-', ' ', city).title()
+        state = re.sub(r'-', ' ', state).title()
+
+        units_list = Unit.objects.select_related().all().filter(prop__state__name = state, prop__city__name = city)
+        # This is a second database hit, need to optimize by grabbing it from
+        # units_list # TO DO
         properties_list = Property.objects.all()
 
         # This loop is to grab all possible amenities for properties we are

@@ -14,7 +14,8 @@ urlpatterns = patterns('',
 
     # Uncomment the admin/doc line below to enable admin documentation:
     # url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
-	(r'^properties/$', 'properties.views.properties'),
+	#(r'^properties/$', 'properties.views.properties'),
+	(r'apartments/(?P<state>[\w-]+)/(?P<city>[\w-]+)/$', 'properties.views.search'),
 	(r'^search/$', 'properties.views.search'),
 	(r'^api/$', 'properties.views.api'),
 	(r'^$', 'properties.views.index'),

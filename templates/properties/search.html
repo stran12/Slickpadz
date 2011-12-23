@@ -94,7 +94,7 @@
                         {% if vacancies %}
                             {% for prop in vacancies %}
                         <tr>
-                            <td>{{ prop.name }}</td>
+                            <td><a href="{{ prop.prop_url }}">{{ prop.name }}</a></td>
                             <td>${{ prop.price_low }} - ${{ prop.price_high }}</td>
                             <th>{% if prop.bed == 0 %}Studio{% else %}{{ prop.bed }}{% endif %}</th>
                             <th>{{ prop.bath }}</th>
